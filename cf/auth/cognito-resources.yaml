@@ -37,7 +37,7 @@ Resources:
       UserPoolName: !Sub ${AuthName}-user-pool
       AutoVerifiedAttributes:
         - phone_number
-      MfaConfiguration: "ON"
+      MfaConfiguration: "OFF"
       SmsConfiguration:
         ExternalId: !Sub ${AuthName}-external
         SnsCallerArn: !GetAtt SNSRole.Arn
@@ -48,7 +48,7 @@ Resources:
           RequireNumbers: true
           RequireSymbols: false
           RequireUppercase: true
-      SmsVerificationMessage: Thanks for registering with Rapidobuild.com. Your verification code is {####}
+      SmsVerificationMessage: Thank you for registering with Rapidobuild.com. Your verification code is {####}
       UsernameAttributes:
         - phone_number
       Schema:
