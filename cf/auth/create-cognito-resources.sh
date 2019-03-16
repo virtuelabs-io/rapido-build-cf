@@ -6,3 +6,11 @@ aws cloudformation create-stack \
     --parameters ParameterKey=AuthName,ParameterValue=$COGNITO_AUTH_NAME \
     --capabilities CAPABILITY_IAM \
     --profile rapido-devops
+
+# aws cloudformation describe-stacks \
+#     --stack-name <StackID>
+#     --profile rapido-devops
+
+# aws cloudformation delete-stack \
+#     --stack-name <StackID>
+#     --profile rapido-devops
