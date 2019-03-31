@@ -1,0 +1,21 @@
+Description: Bucket for storing schemas
+Parameters:
+  SchemasBucketName:
+    Description: BucketName to store secrets
+    Type: String
+Resources:
+  SchemasS3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: Private
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+        - ServerSideEncryptionByDefault:
+            SSEAlgorithm: AES256
+      BucketName: !Ref SchemasBucketName
+      Tags:
+      - Key: CostCenter
+        Value: Rapidobuild
+      - Key: Purpose
+        Value: Schemas bucket
+    DeletionPolicy: Retain
