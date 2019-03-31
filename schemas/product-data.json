@@ -34,7 +34,9 @@
                 "Watch",
                 "silver",
                 "samsung"
-            ]
+            ],
+            "category": "Watches",
+            "subCategory": "Samsung galexy"
         }
     },
     {
@@ -70,7 +72,9 @@
                 "Fossil",
                 "2019",
                 "Watch"
-            ]
+            ],
+            "category": "Watches",
+            "subCategory": "Fossil"
         }
     },
     {
@@ -104,7 +108,9 @@
                 "Skagen",
                 "2019",
                 "Watch"
-            ]
+            ],
+            "category": "Watches",
+            "subCategory": "Skagen"
         }
     }
 ]
