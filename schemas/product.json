@@ -1,31 +1,36 @@
-{
-    "id": 1,
-    "name": "product name",
-    "points": [
-        "Point 1",
-        "Point 2",
-        "Point 3",
-        "Point 4"
-    ],
-    "description": "Product description",
-    "price": 57.90,
-    "notes": "some notes",
-    "currency": "£",
-    "images": [
-        "link to image 1",
-        "link to image 2"
-    ],
-    "rating": 3.5,
-    "offer": 0.1,
-    "details": [
-        "key:value",
-        "key:value"
-    ],
-    "tags": [
-        "tag 1",
-        "tag 2",
-        "tag 3",
-        "tag 4",
-        "tag 5"
-    ]
-}
+[
+    {
+        "type": "add",
+        "id": 1,
+        "fields": {
+            "name": "product name",
+            "points": [
+                "Point 1",
+                "Point 2",
+                "Point 3",
+                "Point 4"
+            ],
+            "description": "Product description",
+            "price": 57.90,
+            "notes": "some notes",
+            "currency": "£",
+            "images": [
+                "link to image 1",
+                "link to image 2"
+            ],
+            "rating": 3.5,
+            "offer": 0.1,
+            "details": [
+                "key:value",
+                "key:value"
+            ],
+            "tags": [
+                "tag 1",
+                "tag 2",
+                "tag 3",
+                "tag 4",
+                "tag 5"
+            ]
+        }
+    }
+]

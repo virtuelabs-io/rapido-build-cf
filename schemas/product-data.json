@@ -1,0 +1,110 @@
+[
+    {
+        "type": "add",
+        "id": 1,
+        "fields": {
+            "name": "Samsung Galaxy Watch Active 40mm Silver",
+            "points": [
+                "A smart essential - thin, lightweight and tough, the stylish Galaxy Active watch fits in with your lifestyle",
+                "Samsung's new smartwatch comes in a range of colours and interchangeable straps",
+                "The dynamic Galaxy Watch Active will make every move count by tracking and automatically storing every walk, run and cycle, recognising when you're working out",
+                "Real-time guidance to reach wellness goals: Samsung's Galaxy Watch Active can track your sleep, gives you breathing exercises to help reduce stress and creates healthy habits that last",
+                "A powerful accessory that pushes you forward: the Galaxy Active lets you connect to your devices, to receive messages and notifications on your watch, control your music and enjoy the freedom of a wireless workout"
+            ],
+            "description": "Unbeatable design, forward-thinking details - Samsung's new smartwatch. An accessory that fits your style, anywhere, anytime. Experience the freedom of a truly connected, on-the-go lifestyle with our latest wearables. With the Galaxy Watch Active, enjoy complete comfort, tailor it to suit your style, stay on track and feel the freedom to stay fit.",
+            "price": 222.99,
+            "notes": "some notes",
+            "currency": "£",
+            "images": [
+                "link to image 1",
+                "link to image 2"
+            ],
+            "rating": 3.5,
+            "offer": 0.1,
+            "details": [
+                "Product Dimensions: 4 x 3 x 0.8 cm ; 49.9 g",
+                "Boxed-product Weight: 181 g",
+                "Delivery Destinations: Visit the Delivery Destinations Help page to see where this item can be delivered. Find out more about our Delivery Rates and Returns Policy",
+                "Batteries 1 Lithium ion batteries required. (included)",
+                "Item model number: SM-R500NZSABTU",
+                "ASIN: B07NGWYJ8F",
+                "Date first available at Amazon.co.uk: 20 Feb. 2019"
+            ],
+            "tags": [
+                "Watch",
+                "silver",
+                "samsung"
+            ]
+        }
+    },
+    {
+        "type": "add",
+        "id": 2,
+        "fields": {
+            "name": "Fossil Mens Smartwatch with Silicone Strap FTW4021",
+            "points": [
+                "Fossil Sport - Men's Display Smartwatch - Diameter: 43 mm, thickness: 12 mm, band Width: 22 mm - 5 ATM water resistant",
+                "Functions: Heart Rate Tracking, GPS, Google Pay, Swimproof, Notifications, Personalise Your Dial, Control Your Music, Interchangeable Watch Band and many more...",
+                "Compatible with Android OS 4.4+ and iOS 9.3+",
+                "Battery life is estimated to last all day (based on usage)",
+                "Items delivered: 1 x FOSSIL Sport Display Smartwatch, 1 x Wireless Charger (USB Type), 1 x Quick Start Guide, 1 x Warranty Booklet"
+            ],
+            "description": "Product description",
+            "price": 219.00,
+            "notes": "some notes",
+            "currency": "£",
+            "images": [
+                "link to image 1",
+                "link to image 2"
+            ],
+            "rating": 3.5,
+            "offer": 0.1,
+            "details": [
+                "Brand Name: Fossil",
+                "Model number: FTW4021",
+                "Part Number: FTW4021",
+                "Model Year: 2019",
+                "Item Shape: Round"
+            ],
+            "tags": [
+                "Fossil",
+                "2019",
+                "Watch"
+            ]
+        }
+    },
+    {
+        "type": "add",
+        "id": 3,
+        "fields": {
+            "name": "Skagen Mens Smartwatch with Leather Strap SKT5104",
+            "points": [
+                "Skagen Connected Falster 2 - Unisex display smartwatch, diameter: 40 mm, thickness: 11 mm, band width: 20 mm - 3 ATM water resistant",
+                "Functions: Heart rate tracking, GPS, Google Pay, swimproof, notifications, personalise your dial, control your music, interchangeable watch band and many more",
+                "Compatible with Android OS 4.4+ and iOS 9.3+",
+                "Battery life is estimated to last all day (based on usage)",
+                "Items delivered: 1 x Skagen connected display smartwatch, 1 x wireless charger (USB Type), 1 x quick start guide, 1 x warranty booklet"
+            ],
+            "description": "The Falster 2 Smartwatch boasts an interactive, swimproof touchscreen and a range of smart features powered with Wear OS by Google™ including: heart-rate tracking, Google Assistant, smartphone notifications, activity tracking, Google Pay, GPS and more. Choose from time- or function-based displays for easy access to your favorite features, and add your favorite third-party apps from the Google Play store. A battery-efficient dial design provides up to 24 hours of use on a single charge, and the interchangeable leather strap allows you to customize your look. Each watch comes with a magnetic charger.\n\nWear OS by Google works with phones running Android 4.4+ (excluding Go edition) or iOS 9.3+. Supported features may vary between platforms and countries. Wear OS by Google is a trademark of Google LLC. Google Assistant and Google Pay available in select markets. To avoid damage to your watch, only use with included charger. Do not use a USB hub, USB splitter, USB y-cable, battery pack or other peripheral device to charge. Battery life varies based on usage.",
+            "price": 229.17,
+            "notes": "some notes",
+            "currency": "£",
+            "images": [
+                "link to image 1",
+                "link to image 2"
+            ],
+            "rating": 3.5,
+            "offer": 0.1,
+            "details": [
+                "Brand Name: Skagen",
+                "Model number: SKT5104",
+                "Model Year: 2018"
+            ],
+            "tags": [
+                "Skagen",
+                "2019",
+                "Watch"
+            ]
+        }
+    }
+]
