@@ -36,7 +36,7 @@
                 "samsung"
             ],
             "category": "Watches",
-            "subCategory": "Samsung galexy"
+            "subcategory": "Samsung galexy"
         }
     },
     {
@@ -74,7 +74,7 @@
                 "Watch"
             ],
             "category": "Watches",
-            "subCategory": "Fossil"
+            "subcategory": "Fossil"
         }
     },
     {
@@ -110,7 +110,7 @@
                 "Watch"
             ],
             "category": "Watches",
-            "subCategory": "Skagen"
+            "subcategory": "Skagen"
         }
     }
 ]
