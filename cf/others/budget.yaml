@@ -1,0 +1,74 @@
+Description: "Billing notifications"
+Parameters:
+  BudgetAmount:
+    Type: String
+    Description: "Limit you want to set"
+Resources:
+  BudgetLimitResource:
+    Type: "AWS::Budgets::Budget"
+    Properties:
+      Budget:
+        BudgetLimit:
+          Amount: !Ref BudgetAmount
+          Unit: USD
+        TimeUnit: MONTHLY
+        BudgetType: COST
+      NotificationsWithSubscribers:
+        - Notification:
+            NotificationType: ACTUAL
+            ComparisonOperator: GREATER_THAN
+            Threshold: 25
+          Subscribers:
+          - SubscriptionType: EMAIL
+            Address: reddy.horcrux@gmail.com
+          - SubscriptionType: EMAIL
+            Address: sharan.sp.sp@gmail.com
+          - SubscriptionType: EMAIL
+            Address: anirup049@gmail.com
+        - Notification:
+            NotificationType: ACTUAL
+            ComparisonOperator: GREATER_THAN
+            Threshold: 50
+          Subscribers:
+          - SubscriptionType: EMAIL
+            Address: reddy.horcrux@gmail.com
+          - SubscriptionType: EMAIL
+            Address: sharan.sp.sp@gmail.com
+          - SubscriptionType: EMAIL
+            Address: anirup049@gmail.com
+        - Notification:
+            NotificationType: ACTUAL
+            ComparisonOperator: GREATER_THAN
+            Threshold: 99
+          Subscribers:
+          - SubscriptionType: EMAIL
+            Address: reddy.horcrux@gmail.com
+          - SubscriptionType: EMAIL
+            Address: sharan.sp.sp@gmail.com
+          - SubscriptionType: EMAIL
+            Address: anirup049@gmail.com
+        - Notification:
+            NotificationType: FORECASTED
+            ComparisonOperator: GREATER_THAN
+            Threshold: 50
+          Subscribers:
+          - SubscriptionType: EMAIL
+            Address: reddy.horcrux@gmail.com
+          - SubscriptionType: EMAIL
+            Address: sharan.sp.sp@gmail.com
+          - SubscriptionType: EMAIL
+            Address: anirup049@gmail.com
+        - Notification:
+            NotificationType: FORECASTED
+            ComparisonOperator: GREATER_THAN
+            Threshold: 100
+          Subscribers:
+          - SubscriptionType: EMAIL
+            Address: reddy.horcrux@gmail.com
+          - SubscriptionType: EMAIL
+            Address: sharan.sp.sp@gmail.com
+          - SubscriptionType: EMAIL
+            Address: anirup049@gmail.com
+Outputs:
+  BudgetId:
+    Value: !Ref BudgetLimitResource
