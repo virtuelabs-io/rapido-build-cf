@@ -13,6 +13,7 @@ Resources:
               Service:
                 - "ecs.amazonaws.com"
                 - "ecs-tasks.amazonaws.com"
+                - "batch.amazonaws.com"
             Action:
               - "sts:AssumeRole"
       Policies:
@@ -22,10 +23,14 @@ Resources:
             Statement:
               - Effect: "Allow"
                 Action:
-                  - "ecr:BatchCheckLayerAvailability"
-                  - "ecr:BatchGetImage"
-                  - "ecr:GetDownloadUrlForLayer"
                   - "ecr:GetAuthorizationToken"
+                  - "ecr:BatchCheckLayerAvailability"
+                  - "ecr:GetDownloadUrlForLayer"
+                  - "ecr:GetRepositoryPolicy"
+                  - "ecr:DescribeRepositories"
+                  - "ecr:ListImages"
+                  - "ecr:DescribeImages"
+                  - "ecr:BatchGetImage"
                 Resource: "*"
 Outputs:
   ECRAccessRole:
