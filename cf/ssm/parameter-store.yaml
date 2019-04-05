@@ -1,0 +1,69 @@
+Description: Paramters which will be loaded as secrets
+Parameters:
+  DatabaseName:
+    Description: Name of the database
+    Type: String
+  Port:
+    Description: Port of the database
+    Type: String
+  Username:
+    Description: Username
+    Type: String
+  Password:
+    Description: Password
+    Type: String
+  Host:
+    Description: Host name
+    Type: String
+Resources:
+  DatabaseNameParameter:
+    Type: "AWS::SSM::Parameter"
+    Properties:
+      Description: Name of the database to connect to
+      Name: rapido-database-name
+      Type: String
+      Value: !Ref DatabaseName
+  PortParameter:
+    Type: "AWS::SSM::Parameter"
+    Properties:
+      Description: Port of the database to connect to
+      Name: rapido-database-port
+      Type: String
+      Value: !Ref Port
+  UsernameParameter:
+    Type: "AWS::SSM::Parameter"
+    Properties:
+      Description: Username of the database
+      Name: rapido-database-username
+      Type: String
+      Value: !Ref Username
+  PasswordParameter:
+    Type: "AWS::SSM::Parameter"
+    Properties:
+      Description: Password of the Database
+      Name: rapido-database-password
+      Type: String
+      Value: !Ref Password
+  HostParameter:
+    Type: "AWS::SSM::Parameter"
+    Properties:
+      Description: Host name of the database to connect to
+      Name: rapido-database-host
+      Type: String
+      Value: !Ref Host
+Outputs:
+  DatabaseNameParameter:
+    Description: DatabaseNameParameter ARN
+    Value: !Ref DatabaseNameParameter
+  PortParameter:
+    Description: PortParameter ARN
+    Value: !Ref PortParameter
+  UsernameParameter:
+    Description: UsernameParameter ARN
+    Value: !Ref UsernameParameter
+  PasswordParameter:
+    Description: PasswordParameter ARN
+    Value: !Ref PasswordParameter
+  HostParameter:
+    Description: HostParameter ARN
+    Value: !Ref HostParameter
