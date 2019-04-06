@@ -1,6 +1,6 @@
 aws cloudformation create-stack \
     --stack-name rapido-build-$DB_NAME-database \
-    --template-body file://${PWD}/cf/rds/rds-prod.yaml \
+    --template-body file://${PWD}/cf/rds/rds-test.yaml \
     --parameters ParameterKey=DBInstanceClass,ParameterValue=$DB_INSTANCE_CLASS \
                  ParameterKey=DBName,ParameterValue=$DB_NAME \
                  ParameterKey=AllocatedStorage,ParameterValue=$ALLOCATED_STORAGE \
