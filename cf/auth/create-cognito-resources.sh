@@ -7,10 +7,3 @@ aws cloudformation create-stack \
     --capabilities CAPABILITY_IAM \
     --profile rapido-devops
 
-# aws cloudformation describe-stacks \
-#     --stack-name <StackID>
-#     --profile rapido-devops
-
-# aws cloudformation delete-stack \
-#     --stack-name <StackID>
-#     --profile rapido-devops
