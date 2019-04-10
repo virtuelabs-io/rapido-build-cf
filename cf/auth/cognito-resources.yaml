@@ -34,12 +34,11 @@ Resources:
   UserPool:
     Type: "AWS::Cognito::UserPool"
     Properties:
-      UserPoolName: !Sub ${AuthName}-user-pool
+      UserPoolName: !Sub ${AuthName}_user_pool
       AutoVerifiedAttributes:
         - phone_number
       MfaConfiguration: "OFF"
       SmsConfiguration:
-        ExternalId: !Sub ${AuthName}-external
         SnsCallerArn: !GetAtt SNSRole.Arn
       Policies:
         PasswordPolicy:
@@ -87,7 +86,7 @@ Resources:
   UserPoolClient:
     Type: "AWS::Cognito::UserPoolClient"
     Properties:
-      ClientName: !Sub ${AuthName}-client
+      ClientName: !Sub ${AuthName}_client
       GenerateSecret: false
       RefreshTokenValidity: 30
       UserPoolId: !Ref UserPool
