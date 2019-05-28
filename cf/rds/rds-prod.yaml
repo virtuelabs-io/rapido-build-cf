@@ -10,7 +10,7 @@ Parameters:
     Default: 5
   Engine:
     Type: String
-    Default: Postgres
+    Default: mysql
   Username:
     Type: String
   Password:
