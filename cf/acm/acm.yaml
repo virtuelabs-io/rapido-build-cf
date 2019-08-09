@@ -1,0 +1,20 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: ACM Cert request
+Resources:
+  ACMCert:
+    Type: "AWS::CertificateManager::Certificate"
+    Properties:
+      DomainName: "rapidobuild.com"
+      DomainValidationOptions:
+        - DomainName: "rapidobuild.com"
+          ValidationDomain: "rapidobuild.com"
+      SubjectAlternativeNames:
+        - "*.rapidobuild.com"
+        - "www.rapidobuild.com"
+      Tags:
+        - Key: Purpose
+          Value: rapidobuild
+        - Key: Environment
+          Value: dev
+      ValidationMethod: "DNS"
+

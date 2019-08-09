@@ -26,3 +26,9 @@ aws cloudformation create-stack \
     --template-body file://${PWD}/cf/s3/website-bucket.yaml \
     --parameters ParameterKey=BucketName,ParameterValue=$DEV_RAPIDO_BUILD_S3_BUCKET \
     --profile rapido-devops
+
+aws cloudformation create-stack \
+    --stack-name logs-cf-rapido-build-bucket \
+    --template-body file://${PWD}/cf/s3/cf-logs-bucket.yaml \
+    --parameters ParameterKey=cloudFrontLogsBucketName,ParameterValue=logs-cf-rapido-build-bucket \
+    --profile rapido-devops

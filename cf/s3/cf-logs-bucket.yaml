@@ -1,0 +1,21 @@
+Description: Bucket for storing cloud front logs
+Parameters:
+  cloudFrontLogsBucketName:
+    Description: BucketName to store cloud front logs
+    Type: String
+Resources:
+  CfS3Bucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      AccessControl: Private
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+        - ServerSideEncryptionByDefault:
+            SSEAlgorithm: AES256
+      BucketName: !Ref cloudFrontLogsBucketName
+      Tags:
+      - Key: CostCenter
+        Value: Rapidobuild
+      - Key: Purpose
+        Value: Cloud front logs
+    DeletionPolicy: Retain
