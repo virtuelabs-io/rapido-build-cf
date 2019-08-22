@@ -32,3 +32,9 @@ aws cloudformation create-stack \
     --template-body file://${PWD}/cf/s3/cf-logs-bucket.yaml \
     --parameters ParameterKey=cloudFrontLogsBucketName,ParameterValue=logs-cf-rapido-build-bucket \
     --profile rapido-devops
+
+aws cloudformation create-stack \
+    --stack-name dev-training-data-bucket \
+    --template-body file://${PWD}/cf/s3/secrets-bucket.yaml \
+    --parameters ParameterKey=SecretsBucketName,ParameterValue=dev-training-data-bucket \
+    --profile rapido-devops
