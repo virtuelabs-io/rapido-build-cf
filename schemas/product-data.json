@@ -416,6 +416,7 @@
         }
     },
     {
+        "type":"add",
         "id":11,
         "fields":{
             "category":"Computers",
@@ -489,6 +490,7 @@
         }
     },
     {
+        "type":"add",
         "id":12,
         "fields":{
             "category":"Computers",
@@ -562,6 +564,7 @@
         }
     },
     {
+        "type":"add",
         "id":13,
         "fields":{
             "category":"Computers",
@@ -635,6 +638,7 @@
         }
     },
     {
+        "type":"add",
         "id":14,
         "fields":{
             "category":"Computers",
@@ -708,6 +712,7 @@
         }
     },
     {
+        "type":"add",
         "id":15,
         "fields":{
             "category":"Computers & Accessories",
@@ -781,6 +786,7 @@
         }
     },
     {
+        "type":"add",
         "id":16,
         "fields":{
             "category":"Computers",
@@ -820,6 +826,7 @@
         }
     },
     {
+        "type":"add",
         "id":17,
         "fields":{
             "category":"Computers",
@@ -860,6 +867,7 @@
         }
     },
     {
+        "type":"add",
         "id":18,
         "fields":{
             "category":"Computers",
@@ -903,6 +911,7 @@
         }
     },
     {
+        "type":"add",
         "id":19,
         "fields":{
             "category":"Computers",
@@ -947,6 +956,7 @@
         }
     },
     {
+        "type":"add",
         "id":20,
         "fields":{
             "category":"Computers",
@@ -987,6 +997,7 @@
         }
     },
     {
+        "type":"add",
         "id":21,
         "fields":{
             "category":"Computers",
@@ -1005,7 +1016,7 @@
                 "Primary kind of gaming headset, perfect for playing games, listening music, etc.",
                 "Soft cushion head-pad and ear-pad, as well as adjustable length hinges guarantee hours of gaming comfort",
                 "Delivers clear sound and deep bass for real game, little smart in-line Remote Control for sound and mic",
-                "Flexible microphone for exact positioning and mic with great sensitivity at picking up sounds, your partner can hear your words clearly, Single 3.5mm Jack for sound and mic",
+                "Flexible microphone for exact positioning and mic with great sensitivity at picking up sounds, your partner can hear your words clearly, Single 3.5mm Jack for sound and mic"
             ],
             "details":[
                 "Model: Cosmic Byte Kotion Each GS420",
@@ -1020,13 +1031,14 @@
                 "/images/products/21/21-headphone-1.jpg",
                 "/images/products/21/21-headphone-2.jpg",
                 "/images/products/22/22-boat-2.jpg",
-                "/images/products/22/22-boat-3.jpg",
+                "/images/products/22/22-boat-3.jpg"
             ],
             "price":990.00,
             "description":"Primary kind of gaming headset, perfect for playing games, listening music, etc. Soft cushion head-pad and ear-pad, as well as adjustable length hinges guarantee hours of gaming comfort Delivers clear sound and deep bass for real game, little smart in-line Remote Control for sound and mic Flexible   microphone for exact positioning and mic with great sensitivity at picking up sounds, your partner can hear your words clearly Single 3.5mm Jack for sound and mic"
         }
     },
     {
+        "type":"add",
         "id":22,
         "fields":{
             "category":"Computers",

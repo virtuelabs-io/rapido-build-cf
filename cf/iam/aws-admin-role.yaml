@@ -1,0 +1,23 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "AWS Admin Role for Virtuelabs.io"
+Resources:
+  SSOAdminRole:
+    Type: "AWS::IAM::Role"
+    DeletionPolicy: "Delete"
+    Properties:
+      RoleName: "VirtueLabs_Admin"
+      Path: "/"
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Federated:
+                - !Sub "arn:aws:iam::${AWS::AccountId}:saml-provider/GoogleApps"
+            Action:
+              - "sts:AssumeRoleWithSAML"
+            Condition:
+              StringEquals:
+                SAML:aud: "https://signin.aws.amazon.com/saml"
+      ManagedPolicyArns:
+        - "arn:aws:iam::aws:policy/AdministratorAccess"
