@@ -414,5 +414,156 @@
             "category": "Watches",
             "subcategory": "Automatic"
         }
-    }
+    },
+    {
+        "id": 11,
+        "fields": {
+          "category": "Computers",
+          "rating": 2.0,
+          "subcategory": "Laptops",
+          "tags": [
+            "Laptops",
+            "hp",
+            "windows"
+          ],
+          "notes": "some notes",
+          "offer": 0.2,
+          "name": "HP 15 Intel Core i5 (8GB DDR4/1TB HDD/Win 10/MS Office/Integrated Graphics/2.04 kg), Full HD Laptop (15.6-inch, Sparkling Black) 15q-ds0029TU",
+          "currency": "£",
+          "points": [
+          "7th Gen Intel i5-7200U (2.5 GHz base processor speed, 3 MB SmartCache, 2 cores)", 
+          "Max Boost Clock Up to 3.1 GHz",
+          "Windows 10 Home with lifetime validity",
+          "Microsoft Office Home & Student 2016 Lifetime edition",
+          "8GB DDR4-2400 RAM",
+          "Expandable to 16 GB", 
+          "1TB 5400 RPM HDD", 
+          "The fueling capacity of the device is maintained with the presence of 3 cell Li-Ion battery", 
+          "which quite resoundingly provides an excellent battery back up"
+          ],
+          "details": ["Brand : HP",  "Series : 15q",  "Colour : Sparkling Black",  "Item Height : 23 Millimeters",  "Item Width : 24.6 Centimeters",  "Screen Size : 15.6 Inches",  "Notebook Display Technology : LED",  "Screen Resolution : 1920 x 1080 Full HD (1080p)",  "Maximum Display Resolution : 1920 x 1080 (Full HD)",  "Item Weight : 2.04 Kg",  "Product Dimensions : 37.6 x 24.6 x 2.3 cm",  "Batteries: : 1 Lithium ion batteries required. (included)",  "Item model number : ds0029TU",  "Processor Brand : Intel",  "Processor Type : Core i5 7200U",  "RAM Size : 8 GB",  "Memory Technology : DDR4",  "Maximum Memory Supported : 16 GB",  "Hard Drive Size : 1 TB",  "Hard Disk Technology : Mechanical Hard Drive",  "Speaker Description : Dual Speaker",  "Graphics Coprocessor : Intel Integrated Graphics",  "Graphics Card Description : Integrated",  "Number of USB 2.0 Ports : 1",  "Number of USB 3.0 Ports : 2",  "Number of HDMI Ports : 1",  "Number of Audio-out Ports : 1",  "Number of Ethernet Ports : 1",  "Number of Microphone Ports : 1",  "Optical Drive Type : DVD+RW",  "Operating System : Windows 10 Home",  "Lithium Battery Energy Content : 41 Watt Hours",  "Lithium battery Weight : 0.85 Grams",  "Number of Lithium Ion Cells : 3",  "Included Components : Laptop, Battery, AC Adapter, User Guide and Manuals"
+          ],
+          "images": [
+            "/images/products/11/11_HP.jpg",
+            "/images/products/11/image2.jpg",
+            "/images/products/11/image3.jpg",
+            "/images/products/11/image4.jpg"
+          ],
+          "price": 41990.00,
+          "description": ""
+        }
+    },
+    {
+        "id": 12,
+        "fields": {
+          "category": "Computers",
+          "rating": 4,
+          "subcategory": "Laptops",
+          "tags": [
+            "Laptops",
+            "lenovo",
+            "windows"
+          ],
+          "notes": "some notes",
+          "offer": 0.2,
+          "name": "Lenovo Ideapad 330 Intel Core i5 8th Gen 15.6-inch Full HD Laptop (8GB DDR4/1TB HDD/Windows 10 Home/Platinum Grey/ 2.2kg), 81DE008PIN",
+          "currency": "₹",
+          "points": [
+          "7th Gen Intel i5-7200U (2.5 GHz base processor speed, 3 MB SmartCache, 2 cores)", 
+          "Max Boost Clock Up to 3.1 GHz",
+          "Windows 10 Home with lifetime validity",
+          "Microsoft Office Home & Student 2016 Lifetime edition",
+          "8GB DDR4-2400 RAM",
+          "Expandable to 16 GB", 
+          "1TB 5400 RPM HDD", 
+          "The fueling capacity of the device is maintained with the presence of 3 cell Li-Ion battery", 
+          "which quite resoundingly provides an excellent battery back up"
+          ],
+          "details": ["Brand:Lenovo",    "Series:Ideapad 330",    "Colour:Platinum Gray",    "Form Factor:Clamshell",    "Item Height:23 Millimeters",    "Item Width:26 Centimeters",    "Screen Size:15.6 Inches",    "Maximum Display Resolution:1920 x 1080 (Full HD)",    "Item Weight:2.2 Kg",    "Product Dimensions:37.8 x 26 x 2.3 cm",    "Batteries::1 Lithium Polymer batteries required. (included)",    "Item model number:81DE008PIN",    "Processor Brand:Intel",    "Processor Type:Core i5 8250U",    "Processor Speed:1.60 GHz",    "Processor Count:4",    "RAM Size:8 GB",    "Memory Technology:DDR4",    "Computer Memory Type:DDR4 SDRAM",    "Maximum Memory Supported:8 GB",    "Hard Drive Size:1 TB",    "Hard Disk Technology:Mechanical Hard Drive",    "Hard Drive Interface:eSATA",    "Speaker Description:Dolby Audio (2x1.5W)",    "Graphics Coprocessor:Integrated Graphics",    "Graphics Card Description:Integrated",    "Graphics Card Interface:Integrated",    "Connectivity Type:Wifi 1x1 AC, Bluetooth 4.1",    "Number of USB 3.0 Ports:1",    "Number of HDMI Ports:1",    "Number of Audio-out Ports:1",    "Number of Ethernet Ports:1",    "Number of Microphone Ports:1",    "Optical Drive Type:NO ODD",    "Hardware Platform:Windows"],
+          "images": [
+            "/images/products/12/image1.jpg",
+            "/images/products/12/image2.jpg",
+            "/images/products/12/image3.jpg",
+            "/images/products/12/image4.jpg"
+          ],
+          "price": 41990.00,
+          "description": "Sometimes it’s best to keep things simple. Stacked with premium Intel processing and discrete graphics options, the Idea Pad 330 is as powerful as it is easy to use. Available in a range of sophisticated colors, it’s safe, durable, and ready for today’s tasks - and tomorrow’s. A laptop isn’t just a piece of electronics - it’s also an investment. That’s why we designed the Idea Pad 330 with a special protective finish to guard against wear and tear, as well as rubber detailing on the bottom to maximize ventilation and extend component life. You’ll experience lightning-fast responsiveness and reliable performance. Store thousands of videos, photos and files in your laptop locally. We are committed to providing an uncluttered desktop and a safer PC experience out of the box."
+        }
+      },
+      {
+        "id": 13,
+        "fields": {
+          "category": "Computers",
+          "rating": 4,
+          "subcategory": "Laptops",
+          "tags": [
+            "Laptops",
+            "dell",
+            "windows"
+          ],
+          "notes": "some notes",
+          "offer": 0.3,
+          "name": "Dell Inspiron Core i5 8th Gen 8250U 2018 (8 GB RAM /2 TB HDD/Windows 10/MS Office/2 GB Graphics), 3576 Laptop, (15.6 inch, Black)",
+          "currency": "₹",
+          "points": [
+          "7th Gen Intel i5-7200U (2.5 GHz base processor speed, 3 MB SmartCache, 2 cores)", 
+          "Max Boost Clock Up to 3.1 GHz",
+          "Windows 10 Home with lifetime validity",
+          "Microsoft Office Home & Student 2016 Lifetime edition",
+          "8GB DDR4-2400 RAM",
+          "Expandable to 16 GB", 
+          "1TB 5400 RPM HDD", 
+          "The fueling capacity of the device is maintained with the presence of 3 cell Li-Ion battery", 
+          "which quite resoundingly provides an excellent battery back up"
+          ],
+          "details": ["Brand:Lenovo",    "Series:Ideapad 330",    "Colour:Platinum Gray",    "Form Factor:Clamshell",    "Item Height:23 Millimeters",    "Item Width:26 Centimeters",    "Screen Size:15.6 Inches",    "Maximum Display Resolution:1920 x 1080 (Full HD)",    "Item Weight:2.2 Kg",    "Product Dimensions:37.8 x 26 x 2.3 cm",    "Batteries::1 Lithium Polymer batteries required. (included)",    "Item model number:81DE008PIN",    "Processor Brand:Intel",    "Processor Type:Core i5 8250U",    "Processor Speed:1.60 GHz",    "Processor Count:4",    "RAM Size:8 GB",    "Memory Technology:DDR4",    "Computer Memory Type:DDR4 SDRAM",    "Maximum Memory Supported:8 GB",    "Hard Drive Size:1 TB",    "Hard Disk Technology:Mechanical Hard Drive",    "Hard Drive Interface:eSATA",    "Speaker Description:Dolby Audio (2x1.5W)",    "Graphics Coprocessor:Integrated Graphics",    "Graphics Card Description:Integrated",    "Graphics Card Interface:Integrated",    "Connectivity Type:Wifi 1x1 AC, Bluetooth 4.1",    "Number of USB 3.0 Ports:1",    "Number of HDMI Ports:1",    "Number of Audio-out Ports:1",    "Number of Ethernet Ports:1",    "Number of Microphone Ports:1",    "Optical Drive Type:NO ODD",    "Hardware Platform:Windows"],
+          "images": [
+            "/images/products/12/image1.jpg",
+            "/images/products/12/image2.jpg",
+            "/images/products/12/image3.jpg",
+            "/images/products/12/image4.jpg"
+          ],
+          "price": 41990.00,
+          "description": "Sometimes it’s best to keep things simple. Stacked with premium Intel processing and discrete graphics options, the Idea Pad 330 is as powerful as it is easy to use. Available in a range of sophisticated colors, it’s safe, durable, and ready for today’s tasks - and tomorrow’s. A laptop isn’t just a piece of electronics - it’s also an investment. That’s why we designed the Idea Pad 330 with a special protective finish to guard against wear and tear, as well as rubber detailing on the bottom to maximize ventilation and extend component life. You’ll experience lightning-fast responsiveness and reliable performance. Store thousands of videos, photos and files in your laptop locally. We are committed to providing an uncluttered desktop and a safer PC experience out of the box."
+        }
+      },
+      {
+        "id": 14,
+        "fields": {
+          "category": "Computers & Accessories",
+          "rating": 5,
+          "subcategory": "Laptops",
+          "tags": [
+            "Laptops",
+            "iBall",
+            "windows"
+          ],
+          "notes": "some notes",
+          "offer": 0.2,
+          "name": "iBall Marvel 6 V 2.0 2017 14-inch Laptop (Intel Celeron Processor N3350/3GB/32GB/Windows 10 Home/Integrated Graphics), Metallic Grey",
+          "currency": "₹",
+          "points": [
+          "7th Gen Intel i5-7200U (2.5 GHz base processor speed, 3 MB SmartCache, 2 cores)", 
+          "Max Boost Clock Up to 3.1 GHz",
+          "Windows 10 Home with lifetime validity",
+          "Microsoft Office Home & Student 2016 Lifetime edition",
+          "8GB DDR4-2400 RAM",
+          "Expandable to 16 GB", 
+          "1TB 5400 RPM HDD", 
+          "The fueling capacity of the device is maintained with the presence of 3 cell Li-Ion battery", 
+          "which quite resoundingly provides an excellent battery back up"
+          ],
+          "details": ["Brand:iBAll",    "Series:Ideapad 330",    "Colour:Platinum Gray",    "Form Factor:Clamshell",    "Item Height:23 Millimeters",    "Item Width:26 Centimeters",    "Screen Size:15.6 Inches",    "Maximum Display Resolution:1920 x 1080 (Full HD)",    "Item Weight:2.2 Kg",    "Product Dimensions:37.8 x 26 x 2.3 cm",    "Batteries::1 Lithium Polymer batteries required. (included)",    "Item model number:81DE008PIN",    "Processor Brand:Intel",    "Processor Type:Core i5 8250U",    "Processor Speed:1.60 GHz",    "Processor Count:4",    "RAM Size:8 GB",    "Memory Technology:DDR4",    "Computer Memory Type:DDR4 SDRAM",    "Maximum Memory Supported:8 GB",    "Hard Drive Size:1 TB",    "Hard Disk Technology:Mechanical Hard Drive",    "Hard Drive Interface:eSATA",    "Speaker Description:Dolby Audio (2x1.5W)",    "Graphics Coprocessor:Integrated Graphics",    "Graphics Card Description:Integrated",    "Graphics Card Interface:Integrated",    "Connectivity Type:Wifi 1x1 AC, Bluetooth 4.1",    "Number of USB 3.0 Ports:1",    "Number of HDMI Ports:1",    "Number of Audio-out Ports:1",    "Number of Ethernet Ports:1",    "Number of Microphone Ports:1",    "Optical Drive Type:NO ODD",    "Hardware Platform:Windows"],
+          "images": [
+            "/images/products/12/image1.jpg",
+            "/images/products/12/image2.jpg",
+            "/images/products/12/image3.jpg",
+            "/images/products/12/image4.jpg"
+          ],
+          "price": 41990.00,
+          "description": "Sometimes it’s best to keep things simple. Stacked with premium Intel processing and discrete graphics options, the Idea Pad 330 is as powerful as it is easy to use. Available in a range of sophisticated colors, it’s safe, durable, and ready for today’s tasks - and tomorrow’s. A laptop isn’t just a piece of electronics - it’s also an investment. That’s why we designed the Idea Pad 330 with a special protective finish to guard against wear and tear, as well as rubber detailing on the bottom to maximize ventilation and extend component life. You’ll experience lightning-fast responsiveness and reliable performance. Store thousands of videos, photos and files in your laptop locally. We are committed to providing an uncluttered desktop and a safer PC experience out of the box."
+        }
+      }
+      
+      
 ]
