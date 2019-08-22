@@ -600,6 +600,207 @@
           "price": 41990.00,
           "description": "Sometimes it’s best to keep things simple. Stacked with premium Intel processing and discrete graphics options, the Idea Pad 330 is as powerful as it is easy to use. Available in a range of sophisticated colors, it’s safe, durable, and ready for today’s tasks - and tomorrow’s. A laptop isn’t just a piece of electronics - it’s also an investment. That’s why we designed the Idea Pad 330 with a special protective finish to guard against wear and tear, as well as rubber detailing on the bottom to maximize ventilation and extend component life. You’ll experience lightning-fast responsiveness and reliable performance. Store thousands of videos, photos and files in your laptop locally. We are committed to providing an uncluttered desktop and a safer PC experience out of the box."
         }
+      },
+      {
+        "id": 16,
+        "fields": {
+          "category": "Computers",
+          "rating": 3,
+          "subcategory": "Desktops",
+          "tags": [
+            "desktop",
+            "Punta",
+            "windows"
+          ],
+          "notes": "",
+          "offer": 0.2,
+          "name": "PUNTA SuperTech Pc Core2Duo processor/4GB Ram/160GB Hard Disk/15.4 inch LED Monitor/Keyboard and Mouse/WiFi Adapter",
+          "currency": "£",
+          "points": [
+          "Core 2 Duo Processor Intel chipset G31 Motherboard - 2GB DDR2 RAM and 160 GB Hard Drive Seagate/Western Digital FRONTECH/ZEBRONICS/INTEX Cabinet and SMPS USB Wi-Fi Adapter 17inch LED Monitor Keyboard and Mouse", 
+          "2GB DDR2 RAM and 160 GB Hard Drive",
+          "USB Wi-Fi Adapter 17inch LED Monitor Keyboard and Mouse"
+          ],
+          "details": ["Brand:PUNTA",
+                "Item part number: B2B_12",
+                "RAM Size: 4 GB",
+                "Hard Drive Size: 160 GB",
+                "Processor Type: Core 2 duo",
+                "Batteries Included: No",
+                "Batteries required: No"
+                ],
+          "images": [
+            "/images/products/16/16-punta-full.png",
+            "/images/products/16/16-punta-cpu.jpg",
+            "/images/products/16/16-punta-connectors.jpg",
+            "/images/products/16/16-punta-monitor.jpg"
+          ],
+          "price": 10990.00,
+          "description": "Sales Package: SuperTech PUNTA Desktop Computer( INTEL CORE 2 DUO 2.8 GHZ Processor, G 31 8 INTEL CHIPSET Motherboard, KRYSTAL 17inch WIDE LED Monitor, 2 GB RAM, 160 GB Hard Disk, Cabinet, FRONTECH/INTEX/ZEBRONICS Wired USB Keyboard Mouse, Mini Wi Fi USB Adaptor, Windows 10 (Trial Version) 64 Bit & MS Office Installed (Trial Version), Microsoft Office (Trial Version). All Connecting Wires (Power Cable, LED Monitor VGA Cable) Comes with this PC."
+        }
+      },
+      {
+        "id": 17,
+        "fields": {
+          "category": "Computers",
+          "rating": 3,
+          "subcategory": "Desktops",
+          "tags": [
+            "desktop",
+            "lenovo",
+            "windows",
+            "linux"
+          ],
+          "notes": "",
+          "offer": 0.2,
+          "name": "Lenovo Ideacentre A340 8th Gen Intel Core I3 21.5 inch All in One Desktop (4GB/ 1 TB HDD/Windows 10/ Integrated Graphics/DVD-RW/Black), F0EB000FIN",
+          "currency": "£",
+          "points": [
+          "Processor: 8th Generation Core Intel I3-8145U processor 2.1 Ghz base speed, 3.9 Ghz max speed, 2 cores, 4 Mb Smart Cache", 
+          "Display: 21.5 inch Full HD (1920 X 1080) Full HD Display | Anti Glare Technology | Borderless Display | 2 Side Narrow Bezel",
+          "This genuine Lenovo desktop comes with 1 year onsite domestic warranty from Lenovo covering manufacturing defects and not covering physical damage. For more details, see Warranty section"
+          ],
+          "details": ["Brand: lenovo",
+                "Series: Ideacentre A340",
+                "RAM Size: 4 GB",
+                "Hard Drive Size: 1 TB",
+                "Processor Type: Core 2 duo",
+                "Speaker: 3Watts Speaker*2",
+                "Operating System: Windows 10, Home"
+                ],
+          "images": [
+            "/images/products/17/17-lenovo-monitor.jpg",
+            "/images/products/17/17-lenovo-cross.jpg",
+            "/images/products/17/17-lenovo-back.jpg",
+            "/images/products/17/17-lenovo-monitor.jpg"
+          ],
+          "price": 39990.00,
+          "description": "With its sleek, modern stand and thin bezel display, the IdeaCentre A340 is designed to catch the eye. Fire it up and marvel at the way it handles everything with ease, quickly and smoothly. Even with the space-saving design, it can store plenty, too. All in all, this 21.5\" all-in-one makes the ideal home PC."
+        }
+      },
+      {
+        "id": 18,
+        "fields": {
+          "category": "Computers",
+          "rating": 3,
+          "subcategory": "Desktops",
+          "tags": [
+            "desktop",
+            "Rolltop",
+            "windows",
+            "linux",
+            "Assembled Desktop"
+          ],
+          "notes": "",
+          "offer": 0.2,
+          "name": "Rolltop Assembled Desktop Core 2 Duo 3.0 GHZ Processor, G31 Motherboard, 15.4\" LED Monitor, 4 GB RAM, 16 GB Pen Drive, Windows 7 Ultimate Trial Version",
+          "currency": "£",
+          "points": [
+          "Sales Package: 1 ROLLTOP Assembled Desktop Computer( INTEL CORE 2 DUO 3.0 GHZ Processor, G 31 Motherboard, Consistent 15.4 inch LED Monitor, 4 GB RAM, Hard Disk, iball Keyboard Mouse, Wi Fi USB Adaptor , 16 Gb Pen Drive, Windows 7 Installed (Trial Version)", 
+          "ROLLTOP PC is Suitable for Office Work, Home Work, Education, College Projects, Computer Programming, Entertainment, Tally, Compatible with Adobe Photoshop, Corel Draw, C, C,,, Java and Other Programming, GST Software)",
+          "Operating System and other Drivers: PC Comes with Windows 7; Ultimate MS Office (Trail Version) installed and Ready to Use However, Customer Can install Windows 7, Windows 8 or Windows 10 on its own All the Required Drivers, Motherboard, LED, Wi-Fi Adaptor etc are installed in Your PC Computer Comes with Free wi-fi Bluetooth Devices Which makes Computer to connect all wi-fi devices wirelessly, Computer can be connected with Bluetooth Speaker, Printer, wi-fi, Headset, Mobile, tablet etc",
+          "Operating System and Other Drivers: ROLLTOP Computer comes with all Parts Assembled & Windows 7 (Trial Version) Installed. Other Driver of Motherboard, wifi Adaptor etc are also Installed. Customer needs to just Connect the Power Cable, VGA Cable, Keyboard and Mouse with Power Supply. (Ready to Use). The Trial Period of Windows is 90 Days, Customer Can contuniue to use using own Keys or Install any other Windows Version 7, 8 or 10 etc. The Windows/Software is Not in Warrenty."
+          ],
+          "details": ["Brand: ROLLTOP",
+                "Product Dimensions : 30 x 25 x 15 cm",
+                "Computer Memory Type: DDR2 SDRAM",
+                "RAM Size: 4 GB",
+                "Hard Drive Size: 1 TB",
+                "Processor Type: Pentium Dual-Core",
+                "Speaker: 3Watts Speaker*2",
+                "Operating System: Windows 7 Ultimate"
+                ],
+          "images": [
+            "/images/products/18/18-rolltop-full.jpg",
+            "/images/products/18/18-rolltop-connectors.jpg",
+            "/images/products/16/16-punta-cpu.jpg",
+            "/images/products/17/17-lenovo-monitor.jpg"
+          ],
+          "price": 39990.00,
+          "description": "ROLLTOP Assembled Desktop Computer|INTEL CORE 2 DUO 3 GHZ Processor |G 31 Motherboard |Consistent 15.4 inch LED Monitor| |4 GB RAM | Hard Disk | Cabinet | iBall Keyboard Mouse | Mini Wi Fi USB Adaptor | 16 GB Pen Drive | Windows 7 Installed (Trial Version)"
+        }
+      },
+      {
+        "id": 19,
+        "fields": {
+          "category": "Computers",
+          "rating": 3,
+          "subcategory": "Desktops",
+          "tags": [
+            "desktop",
+            "ANT PC Lasius",
+            "Gaming pc",
+            "Linux",
+            "Assembled Desktop",
+            "Nvidia"
+          ],
+          "notes": "",
+          "offer": 0.9,
+          "name": "ANT PC Lasius TH920X Gaming PC (AMD ThreadRipper 2920X/2 x Nvidia Geforce RTX 2080 Ti 11GB GPU/ X399 Gaming PRO Carbon AC MB/64 GB (16GB*4) RGB 3200Mhz DDR4 RAM/ 4 TB SATA HDD/1TB m.2 SSD/1200W PSU)",
+          "currency": "£",
+          "points": [
+          "AMD ThreadRipper 2920X (12 cores, 24 threads, 3.5GHz)", 
+          "2 x Nvidia Geforce RTX 2080 Ti 11GB Graphic Card",
+          "Motherboard X399 Gaming PRO Carbon AC",
+          "4 TB SATA HDD/ 1TB m.2 SSD",
+          "64 GB (16GB*4) RGB 3200Mhz DDR4 RAM"
+          ],
+          "details": ["Brand: Ant PC",
+                "Product Dimensions : 87 x 65 x 32 cm",
+                "Item model number: Lasius TH920X",
+                "Computer Memory Type: DDR SDRAM",
+                "RAM Size: 64 GB",
+                "Hard Drive Size: 4 TB",
+                "Processor Type: NVIDIA"
+                ],
+          "images": [
+            "/images/products/19/19-ANT-1.jpg",
+            "/images/products/19/19-ANT-2.jpg",
+            "/images/products/19/19-ANT-3.jpg",
+            "/images/products/19/19-ANT-4.jpg"
+          ],
+          "price": 214990.00,
+          "description": "Ant PC Lasius IL970K Gaming PC (Intel core i7 9700K/ Nvidia Geforce RTX 2080Ti 11GB GPU/ Z390 A PRO MB/ 32GB (16GB*2) 3000Mhz DDR4 RAM/ 2 TB SATA HDD/ 500GB m.2 SSD/ 750watt 80+ Gold PSU )"
+        }
+      },
+      {
+        "id": 20,
+        "fields": {
+          "category": "Computers",
+          "rating": 3,
+          "subcategory": "Desktops",
+          "tags": [
+            "desktop",
+            "Apple",
+            "Gaming pc",
+            "Mac mini"
+          ],
+          "notes": "",
+          "offer": 0.9,
+          "name": "Apple Mac Mini MRTT2HN/A Desktop (Intel Core i5/8GB/256GB SSD), Space Grey",
+          "currency": "£",
+          "points": [
+          "Quad-core i3 or 6-core i5 8th-generation Intel Core processor", 
+          "8GB 2666MHz DDR4",
+          "macOS Mojave, inspired by pros but designed for everyone, with Dark Mode, Stacks, easier screenshots, new built-in apps, and more",
+          "Gigabit Ethernet and 802.11ac Wi-Fi",
+          "Four Thunderbolt 3 (USB-C) ports, one HDMI 2.0 port, and two USB 3 ports"
+          ],
+          "details": ["Processor: 6-Core 3.0GHz 6-core Intel Core i5, Turbo Boost up to 4.1GHz, 9MB shared L3 cache",
+                "Product Dimensions : 87 x 65 x 32 cm",
+                "Video Support: Support for the following combination of maximum concurrent display setups, Thunderbolt 3 digital video output supports, HDMI 2.0 display video output",
+                "Connections and Expansion: DisplayPort, Thunderbolt (up to 40 Gbps), USB 3.1 Gen 2 (up to 10 Gbps), Thunderbolt 2, HDMI, DVI, and VGA supported using adapters (sold separately), Two USB 3 ports (up to 5 Gbps), HDMI 2.0 port, Gigabit Ethernet port (configurable to 10Gb Ethernet), 3.5 mm headphone jack",
+                "RAM Size: 64 GB",
+                "Hard Drive Size: 4 TB",
+                "Processor Type: NVIDIA"
+                ],
+          "images": [
+            "/images/products/20/20-macmini-1.jpg",
+            "/images/products/20/20-macmini-2.jpg"
+          ],
+          "price": 104990.00,
+          "description": "802.11ac Wi-Fi wireless networking IEEE 802.11a/b/g/n compatible, Bluetooth 5.0 wireless technology"
+        }
       }
       
       
