@@ -29,5 +29,8 @@
         "Master Beds",
         "Sofa Sets",
         "Living Room"
+    ],
+    "Clothes": [
+        "Shirts"
     ]
 }
