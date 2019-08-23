@@ -210,209 +210,192 @@
         "type":"add",
         "id":6,
         "fields":{
-            "name":"Diesel Mens Smartwatch with Leather Strap DZT2009",
+            "name":"Apple iPhone X (64GB) - Space Grey",
             "points":[
-                "Diesel On Full Guard 2.5 - Men's display smartwatch, diameter: 48 mm, thickness: 13 mm, band width: 24 mm - 3 ATM water resistant",
-                "Functions: Heart rate tracking, GPS, Google Pay, swimproof, notifications, personalise your dial, control your music, interchangeable watch band and many more",
-                "Compatible with Android OS 4.4+ and iOS 9.3+",
-                "Battery life is estimated to last all day (based on usage)",
-                "Items delivered: 1 x Diesel display smartwatch, 1 x wireless charger (USB Type), 1 x quick start guide, 1 x warranty booklet"
+                "5.8-inch Super Retina display (OLED) with HDR",
+                "IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes)",
+                "12MP dual cameras with dual OIS and 7MP TrueDepth front camera—Portrait mode and Portrait Lighting",
+                "Face ID for secure authentication",
+                "A11 Bionic with Neural Engine",
+                "Wireless charging—works with Qi chargers",
+                "iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime"
             ],
             "description":"This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
-            "price":253.00,
-            "notes":"Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+            "price":999.00,
+            "notes":"iPhone with iOS 12, EarPods with Lightning Connector, Lightning to USB Cable, USB Power Adapter, Documentation",
             "currency":"£",
             "images":[
-                "/images/products/6/image1.jpg",
-                "/images/products/6/image2.jpg",
-                "/images/products/6/image3.jpg",
-                "/images/products/6/image4.jpg",
-                "/images/products/6/image5.jpg"
+                "/images/products/6/6-iPhone-1.jpg",
+                "/images/products/6/6-iPhone-2.jpg",
+                "/images/products/6/6-iPhone-1.jpg",
+                "/images/products/6/6-iPhone-2.jpg",
+                "/images/products/6/6-iPhone-1.jpg"
             ],
             "rating":4.5,
             "offer":0.05,
             "details":[
-                "Brand Name: Diesel",
-                "Model number: DZT2009",
-                "Model Year: 2018",
-                "Item Shape: Round",
-                "Band Material: Leather",
-                "Band Width: 24 millimetres",
-                "Band Colour: Brown"
+                "Display : 5.8-inch Super Retina HD display with HDR and True Tone",
+                "Capacity : 64GB, 256GB",
+                "Splash, Water, and Dust Resistant : All-glass and stainless steel design, water and dust resistant (rated IP67)",
+                "Camera & Video : Dual 12MP cameras with Portrait mode, Portrait Lighting, Auto HDR, and 4K video up to 60 fps", 
+                "Front Camera : 7MP TrueDepth front camera with Portrait mode, Portrait Lighting, and Auto HDR"
             ],
             "tags":[
-                "Diesel",
-                "2018",
-                "Watch"
+                "iPhone",
+                "Apple",
+                "Mobile"
             ],
-            "category":"Watches",
-            "subcategory":"Digital"
+            "category":"Phones",
+            "subcategory":"Apple"
         }
     },
     {
         "type":"add",
         "id":7,
         "fields":{
-            "name":"Fossil Q Venture Unisex Smartwatch Gen.3 - Gold-Tone Stainless Steel Case and Bracelet - Compatible Android and iOS",
+            "name":"Samsung Galaxy S10 Plus Ceramic White, 12GB RAM, 1TB Storage",
             "points":[
-                "IP67 water resistant",
-                "Multiple functions: Dial personalisation, music control, Google voice assistant, LED flashlight, activity tracking and many more",
-                "Compatible with Android OS 4.4+, iPhone 5/iOS 9.3+ / connects via Bluetooth smart enabled / 4.1 low energy",
-                "Battery life is estimated to last all day (based on usage)",
-                "Items delivered: 1 x Fossil Q box, 1 x Fossil Q display smartwatch, 1 x wireless charger (USB type), 1 x quick start guide, 1 x warranty booklet"
+                "5.8-inch Super Retina display (OLED) with HDR",
+                "IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes)",
+                "12MP dual cameras with dual OIS and 7MP TrueDepth front camera—Portrait mode and Portrait Lighting",
+                "Face ID for secure authentication",
+                "A11 Bionic with Neural Engine",
+                "Wireless charging—works with Qi chargers",
+                "iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime"
             ],
-            "description":"This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
-            "price":49.00,
-            "notes":"Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+            "description":"Triple rear camera setup: 16MP with f2.2 aperture ultra wide + 12MP with f1.5 and f2.4 aperture wide + 12MP f2.4 tele| Dual front camera setup - 10MP f1.9 Main + 8MP f2.2 live focus 16.35 centimeters (6.4-inch) Dynamic AMOLED multi-touch capacitive touchscreen with 3040 x 1440 pixels resolution, 522 ppi pixel density Memory, Storage and SIM: 12GB RAM | 1024GB internal memory expandable up to 512GB | Dual SIM (nano+nano) dual stand by (4G+4G) Android Pie v9.0 operating system with 2.7GHz + 2.3GHz + 1.9GHz Exynos 9820 octa core processor 4100mAH lithium-ion battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Box also includes: Earphones, Travel Adapter, USB Cable, Ejection Pin, User Manual",
+            "price":1999.00,
+            "notes":"4100mAH lithium-ion battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Box also includes: Earphones, Travel Adapter, USB Cable, Ejection Pin, User Manual",
             "currency":"£",
             "images":[
-                "/images/products/7/image1.jpg",
-                "/images/products/7/image2.jpg",
-                "/images/products/7/image3.jpg",
-                "/images/products/7/image4.jpg",
-                "/images/products/7/image5.jpg"
+                "/images/products/7/7-samsung-1.jpg",
+                "/images/products/7/7-samsung-2.jpg",
+                "/images/products/6/6-iPhone-2.jpg",
+                "/images/products/6/6-iPhone-1.jpg",
+                "/images/products/6/6-iPhone-2.jpg"
             ],
             "rating":3.1,
             "offer":0.25,
             "details":[
-                "Brand Name: Fossil",
-                "Model number: FTW6006",
-                "Model Year: 2017",
-                "Item Shape: Round",
-                "Band Material: Stainless Steel",
-                "Band Width: 24 millimetres",
-                "Special Features: Activity Tracker, iOS, Bluetooth, Distance Tracking, E-mail, Music Player, Pedometer, Phone Call, Social Media Notifications, Text Messaging, Voice Control, Alarm, Android, Back Light, Calories Counter"
+                "Display : 5.8-inch Super Retina HD display with HDR and True Tone",
+                "Capacity : 64GB, 256GB",
+                "Splash, Water, and Dust Resistant : All-glass and stainless steel design, water and dust resistant (rated IP67)",
+                "Camera & Video : Dual 12MP cameras with Portrait mode, Portrait Lighting, Auto HDR, and 4K video up to 60 fps", 
+                "Front Camera : 7MP TrueDepth front camera with Portrait mode, Portrait Lighting, and Auto HDR"
             ],
             "tags":[
-                "Fossil",
-                "2017",
-                "Watch"
+                "Samsung",
+                "phone",
+                "galaxy",
+                "Mobile"
             ],
-            "category":"Watches",
-            "subcategory":"Digital"
+            "category":"phones",
+            "subcategory":"Samsung"
         }
     },
     {
         "type":"add",
         "id":8,
         "fields":{
-            "name":"Emporio Armani Mens Smartwatch with Rubber Strap ART5008",
+            "name":"Nokia 9 (Midnight Blue, 6GB, 128GB)",
             "points":[
-                "Emporio Armani Connected Matteo - Men's display smartwatch, diameter: 43 mm, thickness: 12 mm, band width: 20 mm - 3 ATM water resistant",
-                "Functions: Heart rate tracking, GPS, Google Pay, swimproof, notifications, personalise your dial, control your music, interchangeable watch band and many more",
-                "Compatible with Android OS 4.4+ and iOS 9.3+",
-                "Battery life is estimated to last all day (based on usage)",
-                "Items delivered: 1 x Emporio Armani Connected smartwatch, 1 x wireless charger (USB Type), 1 x quick start guide, 1 x warranty booklet"
+                "6 GB RAM | 128 GB ROM | 15.21 cm (5.99 inch) QHD+ Display" , "5 x 12MP | 20MP Front Camera" , "3320 mAh Battery" , "Qualcomm Snapdragon 845 Processor" , "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
             ],
-            "description":"This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
+            "description":"Be it colourful photos or classic black-and-white pictures, you can click them all with this stunning smartphone from Nokia. Featuring five 12-megapixel cameras on its back and a 20-megapixel front camera, this handset gives smartphone photography a whole new meaning. And, to make things even better, this smartphone also boasts the Pro Camera UI that lets you make adjustments to different camera settings, such as ISO and white balance, to help your pictures shine like they’re meant to be.",
             "price":269.41,
-            "notes":"Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+            "notes":"Get 10% cashback up to Rs. 100 using Visa Signature or Visa Infinite cards. Shop during the Visa Shopping Days starting 20th to end of every month. Cashback within 3 days.",
             "currency":"£",
             "images":[
-                "/images/products/8/image1.jpg",
-                "/images/products/8/image2.jpg",
-                "/images/products/8/image3.jpg",
-                "/images/products/8/image4.jpg",
-                "/images/products/8/image5.jpg"
+                "/images/products/7/7-samsung-1.jpg",
+                "/images/products/7/7-samsung-2.jpg",
+                "/images/products/6/6-iPhone-2.jpg",
+                "/images/products/6/6-iPhone-1.jpg",
+                "/images/products/6/6-iPhone-2.jpg"
             ],
             "rating":4.5,
             "offer":0.00,
             "details":[
-                "Brand Name: Emporio Armani",
-                "Model number: ART5008",
-                "Model Year: 2018",
-                "Item Shape: Round",
-                "Band Material: Rubber",
-                "Band Width: 20 millimetres",
-                "Weight: 249 Grams"
+                "RAM: 6 GB"  ,  " Item Weight: 399 g"  ,  " Package Dimensions: 15 x 15 x 5 cm"  ,  " Batteries: 1 Lithium ion batteries required. (included)"  ,  " Special features: Front Camera, Rear Camera"  ,  " Colour: Midnight Blue"
+                ,"Weight: 249 Grams"
             ],
             "tags":[
-                "Emporio",
-                "2012",
-                "Watch"
+                "Nokia",
+                "phones",
+                "mobiles",
+                "Midnight Blue"
             ],
-            "category":"Watches",
-            "subcategory":"Digital"
+            "category":"Phones",
+            "subcategory":"Nokia"
         }
     },
     {
         "type":"add",
         "id":9,
         "fields":{
-            "name":"Sports Smart Watch, GOKOO S10 Pro Digital Outdoor Sports Smartwatch for Men with Pedometer, Calorie Counter, Distance, Stopwatch, Waterproof, Notifications Compatible",
+            "name":"Motorola X Force XT1580 (Black 32GB)",
             "points":[
-                "Build-in Maxell CR2430 Button Cell, the smart watch for men works for 12 months under normal using and over 33 months under energy saving mode without charging; stores movement data of the latest 21 days, old data will be covered cyclically.",
-                "Movement Data Record. Smart watch accurately records 24 hours walking steps, walking distance, and calories consumption to help you understand the sports benefit in real time. Countdown Timer & Alarm enavle regulate exercise plan.",
-                "The Call and Message Icon keeps flickering and makes a notification tone 'beep beep' to remind. Remote Camera offers you to take photos in every place. NOTE: The Message includes SMS, Facebook, Twitter, QQ, WeChat, Whatsapp, Skype, etc.",
-                "Smart watch for Men support Multi-interface time display, timer & stopwatch, pedometer, calorie counter, distance tracking, calls and SMS/SNS notification, clock alarm, remote camera control, sports tracking with different modes, like walking, running, football, badminton, basketball, cycling, hiking, raise to wake.",
-                "Easily connect to the phone. Best electronic gift for men and boys. NOTE: The app supports iOS 7 and Android 4.3 or above. 30-day money-back guarantee, 12-month new replacement warranty. While we are constantly striving to improve product quality and we cannot reduce product defective rates to zero. If smart watch has any problem, please contact us by email. We will do our best to provide you with after-sales guarantee."
+                "6 GB RAM | 128 GB ROM | 15.21 cm (5.99 inch) QHD+ Display" , "5 x 12MP | 20MP Front Camera" , "3320 mAh Battery" , "Qualcomm Snapdragon 845 Processor" , "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
             ],
-            "description":"This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
-            "price":49.99,
-            "notes":"Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+            "description":"Be it colourful photos or classic black-and-white pictures, you can click them all with this stunning smartphone from Nokia. Featuring five 12-megapixel cameras on its back and a 20-megapixel front camera, this handset gives smartphone photography a whole new meaning. And, to make things even better, this smartphone also boasts the Pro Camera UI that lets you make adjustments to different camera settings, such as ISO and white balance, to help your pictures shine like they’re meant to be.",
+            "price":269.41,
+            "notes":"Get 10% cashback up to Rs. 100 using Visa Signature or Visa Infinite cards. Shop during the Visa Shopping Days starting 20th to end of every month. Cashback within 3 days.",
             "currency":"£",
             "images":[
-                "/images/products/9/image1.jpg",
-                "/images/products/9/image2.jpg",
-                "/images/products/9/image3.jpg",
-                "/images/products/9/image4.jpg",
-                "/images/products/9/image5.jpg"
+                "/images/products/7/7-samsung-1.jpg",
+                "/images/products/7/7-samsung-2.jpg",
+                "/images/products/6/6-iPhone-2.jpg",
+                "/images/products/6/6-iPhone-1.jpg",
+                "/images/products/6/6-iPhone-2.jpg"
             ],
-            "rating":3.0,
+            "rating":4.5,
             "offer":0.00,
             "details":[
-                "Brand Name: GOKOO",
-                "Band Material: Silicon",
-                "Band Width: 24 millimetres"
+                "RAM: 6 GB"  ,  " Item Weight: 399 g"  ,  " Package Dimensions: 15 x 15 x 5 cm"  ,  " Batteries: 1 Lithium ion batteries required. (included)"  ,  " Special features: Front Camera, Rear Camera"  ,  " Colour: Midnight Blue"
+                ,"Weight: 249 Grams"
             ],
             "tags":[
-                "GOKOO",
-                "Watch"
+                "Motorola",
+                "phones",
+                "mobiles",
+                "XT1580"
             ],
-            "category":"Watches",
-            "subcategory":"Automatic"
+            "category":"Phones",
+            "subcategory":"Motorola"
         }
     },
     {
         "type":"add",
         "id":10,
         "fields":{
-            "name":"Smart Watch,Hevoiok Casual Fashion Trend 2019 Newest Bluetooth Smart Wristwatches with Heart Rate Track Monitor Sleep Monitoring Calories Counter Pedometer Message Notification Sport Watch",
+            "name":"Redmi K20 (Glacier Blue, 6GB RAM, 64GB Storage)",
             "points":[
-                "The Express usually takes 2-3 days to deliver to you, but the shipping cost is more expensive, so please pay attention when purchase. If you have any questions, please feel free to contact us and we are happy to solve any problems for you.",
-                "The function of this smart watch:Calories Counter/Sleep Monitoring/Pedometer/Sport Mode/Call Reminder/Social Sharing/Music/Alarm Clock etc. This smart watch has a wealth of features to meet every aspect of your everyday life.",
-                "Compatible with iPhone and Android Phones. Huawei, XIAOMI, Lenovo, LG, Samsung, Sony, HTC, Motorola, Google, Nokia etc.",
-                "Sport Smartwatch Classic Smartwatch Fashion Men's Watch Smart Bracelet Smart Wristband Bluetooth Smart Watch smart watches for iphone smart watches for android phones waterproof smartwatch Bluetooth Smartwatch for Android IOS Waterproof Smart Wristband with Heart Rate Monitor Women Bluetooth Smartwatch smart fitness tracker Touch Screen Smart Watch Men Bluetooth Smart Watches Compatible with Android and IOS IP67 waterproof smart watches",
-                "Smart Watch with Heart Rate and Fitness Tracker Sleep Analysis calories counter blood pressure monitor sleep monitor call SMS SNS reminder alarm clock GPS route sedentary remind sleep tracker Heart Rate Monitor Pedometer SMS Call Notification Music GPS 4G WIFI SIM Card Blood Pressure Step Counter Camera Sync Calls Notification Layered Display technology NFC Payments Google Assistant Wrist Wear Smart Watch smart watch for ios smart watches for women Smart Watch"
+                "48+13+8MP triple rear camera with IMX582, 1/2.0 inch, 1.6 micormeter, 6P, f1.75, FOV79, AF, OL, 13MP (S5K3L6 1/3 inch, 1.12 micrometer, 5P, f2.4, FOV124.8, FF), 8MP (OV8856 1/4 inch, 1.12 micrometer, 5P, f2.4, FOV44.5, AF, OL, PDAF), slow motion support - 960 fps | 20MP front facing popup camera with R/B LED-aperture-f2.2, pixel size - 0.8 micrometer"  ,  " 16.23 centimeters (6.39-inch) FHD+ AMOLED multi-touch capacitive touchscreen with 2340 x 1080 pixels resolution, 403 ppi pixel density"  ,  " Memory, Storage & SIM: 6GB RAM | 64GB internal memory | Dual SIM (nano+nano) dual-standby (4G+4G)"  ,  " Android Pie v9.0 operating system with 2x2.2GHz Kryo 470 + 6x1.8GHz Kryo 470 Qualcomm Snapdragon 730 octa core processor, Adreno 618"  ,  " 4000mAH lithium-polymer battery"  ,  " 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"  ,  " Box also includes: Power adapter, simple protective cover, USB type-c cable, SIM eject tool, user guide and warranty card"
             ],
-            "description":"This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
-            "price":14.00,
-            "notes":"Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+            "description":"The K20 opens up new possibilities. The 48 MP AI Triple camera setup lets you see things from a different perspective altogether. Be it ultra-wides or telephoto shots, the K20 produces flawless images. Powered by the Qualcomm Snapdragon 730 and a 4000 mAh battery, this device finds a perfect balance between performance and power efficiency. The Aura Prime design gives the device a unique look while the Corning Gorilla Glass 5 on the front and back enhances the overall user experience.",
+            "price":269.41,
+            "notes":"",
             "currency":"£",
             "images":[
-                "/images/products/10/image1.jpg",
-                "/images/products/10/image2.jpg",
-                "/images/products/10/image3.jpg",
-                "/images/products/10/image4.jpg",
-                "/images/products/10/image5.jpg"
+                "/images/products/7/7-samsung-1.jpg",
+                "/images/products/7/7-samsung-2.jpg",
+                "/images/products/6/6-iPhone-2.jpg",
+                "/images/products/6/6-iPhone-1.jpg",
+                "/images/products/6/6-iPhone-2.jpg"
             ],
-            "rating":3.1,
-            "offer":0.10,
+            "rating":4.5,
+            "offer":0.00,
             "details":[
-                "Brand Name: Hevoiok_Fashion Smart Watches",
-                "Model number: DJHZYF-151008-SW-0007",
-                "Model Year: 2018",
-                "Item Shape: Round",
-                "Band Material: Silicon",
-                "Band Width: 24 millimetres"
+                "RAM: 6 GB"  ,  " Item Weight: 399 g"  ,  " Package Dimensions: 15 x 15 x 5 cm"  ,  " Batteries: 1 Lithium ion batteries required. (included)"  ,  " Special features: Front Camera, Rear Camera"  ,  " Colour: Midnight Blue"
+                ,"Weight: 249 Grams"
             ],
             "tags":[
-                "Hevoiok_Fashion Smart Watches",
-                "2018",
-                "Watch"
+                "Redmi",
+                "phones",
+                "mobiles",
+                "K20"
             ],
-            "category":"Watches",
-            "subcategory":"Automatic"
+            "category":"Phones",
+            "subcategory":"Redmi"
         }
     },
     {
