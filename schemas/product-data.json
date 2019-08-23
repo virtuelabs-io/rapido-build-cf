@@ -207,197 +207,887 @@
         }
     },
     {
-        "type":"add",
-        "id":6,
-        "fields":{
-            "name":"Apple iPhone X (64GB) - Space Grey",
-            "points":[
-                "5.8-inch Super Retina display (OLED) with HDR",
-                "IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes)",
-                "12MP dual cameras with dual OIS and 7MP TrueDepth front camera—Portrait mode and Portrait Lighting",
-                "Face ID for secure authentication",
-                "A11 Bionic with Neural Engine",
-                "Wireless charging—works with Qi chargers",
-                "iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime"
-            ],
-            "description":"This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
-            "price":999.00,
-            "notes":"iPhone with iOS 12, EarPods with Lightning Connector, Lightning to USB Cable, USB Power Adapter, Documentation",
-            "currency":"£",
-            "images":[
-                "/images/products/6/6-iPhone-3.jpg",
-                "/images/products/6/6-iPhone-4.jpg",
-                "/images/products/6/6-iPhone-3.jpg",
-                "/images/products/6/6-iPhone-4.jpg",
-                "/images/products/6/6-iPhone-3.jpg"
-            ],
-            "rating":4.5,
-            "offer":0.05,
-            "details":[
-                "Display : 5.8-inch Super Retina HD display with HDR and True Tone",
-                "Capacity : 64GB, 256GB",
-                "Splash, Water, and Dust Resistant : All-glass and stainless steel design, water and dust resistant (rated IP67)",
-                "Camera & Video : Dual 12MP cameras with Portrait mode, Portrait Lighting, Auto HDR, and 4K video up to 60 fps", 
-                "Front Camera : 7MP TrueDepth front camera with Portrait mode, Portrait Lighting, and Auto HDR"
-            ],
-            "tags":[
-                "iPhone",
-                "Apple",
-                "Mobile"
-            ],
-            "category":"Phones",
-            "subcategory":"Apple"
+        "type": "add",
+        "id": 6,
+        "fields": {
+        "name": "Diesel Mens Smartwatch with Leather Strap DZT2009",
+        "points": [
+        "Diesel On Full Guard 2.5 - Men's display smartwatch, diameter: 48 mm, thickness: 13 mm, band width: 24 mm - 3 ATM water resistant",
+        "Functions: Heart rate tracking, GPS, Google Pay, swimproof, notifications, personalise your dial, control your music, interchangeable watch band and many more",
+        "Compatible with Android OS 4.4+ and iOS 9.3+",
+        "Battery life is estimated to last all day (based on usage)",
+        "Items delivered: 1 x Diesel display smartwatch, 1 x wireless charger (USB Type), 1 x quick start guide, 1 x warranty booklet"
+        ],
+        "description": "This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
+        "price": 253,
+        "notes": "Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+        "currency": "£",
+        "images": [
+        "/images/products/6/image1.jpg",
+        "/images/products/6/image2.jpg",
+        "/images/products/6/image3.jpg",
+        "/images/products/6/image4.jpg",
+        "/images/products/6/image5.jpg"
+        ],
+        "rating": 4.5,
+        "offer": 0.05,
+        "details": [
+        "Brand Name: Diesel",
+        "Model number: DZT2009",
+        "Model Year: 2018",
+        "Item Shape: Round",
+        "Band Material: Leather",
+        "Band Width: 24 millimetres",
+        "Band Colour: Brown"
+        ],
+        "tags": [
+        "Diesel",
+        "2018",
+        "Watch"
+        ],
+        "category": "Watches",
+        "subcategory": "Digital"
         }
     },
     {
-        "type":"add",
-        "id":7,
-        "fields":{
-            "name":"Samsung Galaxy S10 Plus Ceramic White, 12GB RAM, 1TB Storage",
-            "points":[
-                "5.8-inch Super Retina display (OLED) with HDR",
-                "IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes)",
-                "12MP dual cameras with dual OIS and 7MP TrueDepth front camera—Portrait mode and Portrait Lighting",
-                "Face ID for secure authentication",
-                "A11 Bionic with Neural Engine",
-                "Wireless charging—works with Qi chargers",
-                "iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime"
-            ],
-            "description":"Triple rear camera setup: 16MP with f2.2 aperture ultra wide + 12MP with f1.5 and f2.4 aperture wide + 12MP f2.4 tele| Dual front camera setup - 10MP f1.9 Main + 8MP f2.2 live focus 16.35 centimeters (6.4-inch) Dynamic AMOLED multi-touch capacitive touchscreen with 3040 x 1440 pixels resolution, 522 ppi pixel density Memory, Storage and SIM: 12GB RAM | 1024GB internal memory expandable up to 512GB | Dual SIM (nano+nano) dual stand by (4G+4G) Android Pie v9.0 operating system with 2.7GHz + 2.3GHz + 1.9GHz Exynos 9820 octa core processor 4100mAH lithium-ion battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Box also includes: Earphones, Travel Adapter, USB Cable, Ejection Pin, User Manual",
-            "price":1999.00,
-            "notes":"4100mAH lithium-ion battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Box also includes: Earphones, Travel Adapter, USB Cable, Ejection Pin, User Manual",
-            "currency":"£",
-            "images":[
-                "/images/products/7/7-samsung-3.jpg",
-                "/images/products/7/7-samsung-4.jpg",
-                "/images/products/7/7-samsung-3.jpg",
-                "/images/products/7/7-samsung-4.jpg",
-                "/images/products/6/6-iPhone-3.jpg"
-            ],
-            "rating":3.1,
-            "offer":0.25,
-            "details":[
-                "Display : 5.8-inch Super Retina HD display with HDR and True Tone",
-                "Capacity : 64GB, 256GB",
-                "Splash, Water, and Dust Resistant : All-glass and stainless steel design, water and dust resistant (rated IP67)",
-                "Camera & Video : Dual 12MP cameras with Portrait mode, Portrait Lighting, Auto HDR, and 4K video up to 60 fps", 
-                "Front Camera : 7MP TrueDepth front camera with Portrait mode, Portrait Lighting, and Auto HDR"
-            ],
-            "tags":[
-                "Samsung",
-                "phone",
-                "galaxy",
-                "Mobile"
-            ],
-            "category":"phones",
-            "subcategory":"Samsung"
-        }
+    "type": "add",
+    "id": 7,
+    "fields": {
+    "name": "Fossil Q Venture Unisex Smartwatch Gen.3 - Gold-Tone Stainless Steel Case and Bracelet - Compatible Android and iOS",
+    "points": [
+    "IP67 water resistant",
+    "Multiple functions: Dial personalisation, music control, Google voice assistant, LED flashlight, activity tracking and many more",
+    "Compatible with Android OS 4.4+, iPhone 5/iOS 9.3+ / connects via Bluetooth smart enabled / 4.1 low energy",
+    "Battery life is estimated to last all day (based on usage)",
+    "Items delivered: 1 x Fossil Q box, 1 x Fossil Q display smartwatch, 1 x wireless charger (USB type), 1 x quick start guide, 1 x warranty booklet"
+    ],
+    "description": "This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
+    "price": 49,
+    "notes": "Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+    "currency": "£",
+    "images": [
+    "/images/products/7/image1.jpg",
+    "/images/products/7/image2.jpg",
+    "/images/products/7/image3.jpg",
+    "/images/products/7/image4.jpg",
+    "/images/products/7/image5.jpg"
+    ],
+    "rating": 3.1,
+    "offer": 0.25,
+    "details": [
+    "Brand Name: Fossil",
+    "Model number: FTW6006",
+    "Model Year: 2017",
+    "Item Shape: Round",
+    "Band Material: Stainless Steel",
+    "Band Width: 24 millimetres",
+    "Special Features: Activity Tracker, iOS, Bluetooth, Distance Tracking, E-mail, Music Player, Pedometer, Phone Call, Social Media Notifications, Text Messaging, Voice Control, Alarm, Android, Back Light, Calories Counter"
+    ],
+    "tags": [
+    "Fossil",
+    "2017",
+    "Watch"
+    ],
+    "category": "Watches",
+    "subcategory": "Digital"
+    }
     },
     {
-        "type":"add",
-        "id":8,
-        "fields":{
-            "name":"Nokia 9 (Midnight Blue, 6GB, 128GB)",
-            "points":[
-                "6 GB RAM | 128 GB ROM | 15.21 cm (5.99 inch) QHD+ Display" , "5 x 12MP | 20MP Front Camera" , "3320 mAh Battery" , "Qualcomm Snapdragon 845 Processor" , "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
-            ],
-            "description":"Be it colourful photos or classic black-and-white pictures, you can click them all with this stunning smartphone from Nokia. Featuring five 12-megapixel cameras on its back and a 20-megapixel front camera, this handset gives smartphone photography a whole new meaning. And, to make things even better, this smartphone also boasts the Pro Camera UI that lets you make adjustments to different camera settings, such as ISO and white balance, to help your pictures shine like they’re meant to be.",
-            "price":269.41,
-            "notes":"Get 10% cashback up to Rs. 100 using Visa Signature or Visa Infinite cards. Shop during the Visa Shopping Days starting 20th to end of every month. Cashback within 3 days.",
-            "currency":"£",
-            "images":[
-                "/images/products/8/8-nokia-3.png",
-                "/images/products/8/8-nokia-4.jpg",
-                "/images/products/8/8-nokia-3.png",
-                "/images/products/8/8-nokia-4.jpg",
-                "/images/products/7/7-samsung-4.jpg"
-            ],
-            "rating":4.5,
-            "offer":0.00,
-            "details":[
-                "RAM: 6 GB"  ,  " Item Weight: 399 g"  ,  " Package Dimensions: 15 x 15 x 5 cm"  ,  " Batteries: 1 Lithium ion batteries required. (included)"  ,  " Special features: Front Camera, Rear Camera"  ,  " Colour: Midnight Blue"
-                ,"Weight: 249 Grams"
-            ],
-            "tags":[
-                "Nokia",
-                "phones",
-                "mobiles",
-                "Midnight Blue"
-            ],
-            "category":"Phones",
-            "subcategory":"Nokia"
-        }
+    "type": "add",
+    "id": 8,
+    "fields": {
+    "name": "Emporio Armani Mens Smartwatch with Rubber Strap ART5008",
+    "points": [
+    "Emporio Armani Connected Matteo - Men's display smartwatch, diameter: 43 mm, thickness: 12 mm, band width: 20 mm - 3 ATM water resistant",
+    "Functions: Heart rate tracking, GPS, Google Pay, swimproof, notifications, personalise your dial, control your music, interchangeable watch band and many more",
+    "Compatible with Android OS 4.4+ and iOS 9.3+",
+    "Battery life is estimated to last all day (based on usage)",
+    "Items delivered: 1 x Emporio Armani Connected smartwatch, 1 x wireless charger (USB Type), 1 x quick start guide, 1 x warranty booklet"
+    ],
+    "description": "This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
+    "price": 269.41,
+    "notes": "Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+    "currency": "£",
+    "images": [
+    "/images/products/8/image1.jpg",
+    "/images/products/8/image2.jpg",
+    "/images/products/8/image3.jpg",
+    "/images/products/8/image4.jpg",
+    "/images/products/8/image5.jpg"
+    ],
+    "rating": 4.5,
+    "offer": 0,
+    "details": [
+    "Brand Name: Emporio Armani",
+    "Model number: ART5008",
+    "Model Year: 2018",
+    "Item Shape: Round",
+    "Band Material: Rubber",
+    "Band Width: 20 millimetres",
+    "Weight: 249 Grams"
+    ],
+    "tags": [
+    "Emporio",
+    "2012",
+    "Watch"
+    ],
+    "category": "Watches",
+    "subcategory": "Digital"
+    }
     },
     {
-        "type":"add",
-        "id":9,
-        "fields":{
-            "name":"Motorola X Force XT1580 (Black 32GB)",
-            "points":[
-                "6 GB RAM | 128 GB ROM | 15.21 cm (5.99 inch) QHD+ Display" , "5 x 12MP | 20MP Front Camera" , "3320 mAh Battery" , "Qualcomm Snapdragon 845 Processor" , "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
-            ],
-            "description":"Be it colourful photos or classic black-and-white pictures, you can click them all with this stunning smartphone from Nokia. Featuring five 12-megapixel cameras on its back and a 20-megapixel front camera, this handset gives smartphone photography a whole new meaning. And, to make things even better, this smartphone also boasts the Pro Camera UI that lets you make adjustments to different camera settings, such as ISO and white balance, to help your pictures shine like they’re meant to be.",
-            "price":269.41,
-            "notes":"Get 10% cashback up to Rs. 100 using Visa Signature or Visa Infinite cards. Shop during the Visa Shopping Days starting 20th to end of every month. Cashback within 3 days.",
-            "currency":"£",
-            "images":[
-                "/images/products/9/9-moto-1.jpg",
-                "/images/products/9/9-moto-2.jpg",
-                "/images/products/9/9-moto-1.jpg",
-                "/images/products/9/9-moto-2.jpg",
-                "/images/products/9/9-moto-1.jpg"
-            ],
-            "rating":4.5,
-            "offer":0.00,
-            "details":[
-                "RAM: 6 GB"  ,  " Item Weight: 399 g"  ,  " Package Dimensions: 15 x 15 x 5 cm"  ,  " Batteries: 1 Lithium ion batteries required. (included)"  ,  " Special features: Front Camera, Rear Camera"  ,  " Colour: Midnight Blue"
-                ,"Weight: 249 Grams"
-            ],
-            "tags":[
-                "Motorola",
-                "phones",
-                "mobiles",
-                "XT1580"
-            ],
-            "category":"Phones",
-            "subcategory":"Motorola"
-        }
+    "type": "add",
+    "id": 9,
+    "fields": {
+    "name": "Sports Smart Watch, GOKOO S10 Pro Digital Outdoor Sports Smartwatch for Men with Pedometer, Calorie Counter, Distance, Stopwatch, Waterproof, Notifications Compatible",
+    "points": [
+    "Build-in Maxell CR2430 Button Cell, the smart watch for men works for 12 months under normal using and over 33 months under energy saving mode without charging; stores movement data of the latest 21 days, old data will be covered cyclically.",
+    "Movement Data Record. Smart watch accurately records 24 hours walking steps, walking distance, and calories consumption to help you understand the sports benefit in real time. Countdown Timer & Alarm enavle regulate exercise plan.",
+    "The Call and Message Icon keeps flickering and makes a notification tone 'beep beep' to remind. Remote Camera offers you to take photos in every place. NOTE: The Message includes SMS, Facebook, Twitter, QQ, WeChat, Whatsapp, Skype, etc.",
+    "Smart watch for Men support Multi-interface time display, timer & stopwatch, pedometer, calorie counter, distance tracking, calls and SMS/SNS notification, clock alarm, remote camera control, sports tracking with different modes, like walking, running, football, badminton, basketball, cycling, hiking, raise to wake.",
+    "Easily connect to the phone. Best electronic gift for men and boys. NOTE: The app supports iOS 7 and Android 4.3 or above. 30-day money-back guarantee, 12-month new replacement warranty. While we are constantly striving to improve product quality and we cannot reduce product defective rates to zero. If smart watch has any problem, please contact us by email. We will do our best to provide you with after-sales guarantee."
+    ],
+    "description": "This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
+    "price": 49.99,
+    "notes": "Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+    "currency": "£",
+    "images": [
+    "/images/products/9/image1.jpg",
+    "/images/products/9/image2.jpg",
+    "/images/products/9/image3.jpg",
+    "/images/products/9/image4.jpg",
+    "/images/products/9/image5.jpg"
+    ],
+    "rating": 3,
+    "offer": 0,
+    "details": [
+    "Brand Name: GOKOO",
+    "Band Material: Silicon",
+    "Band Width: 24 millimetres"
+    ],
+    "tags": [
+    "GOKOO",
+    "Watch"
+    ],
+    "category": "Watches",
+    "subcategory": "Automatic"
+    }
     },
     {
-        "type":"add",
-        "id":10,
-        "fields":{
-            "name":"Redmi K20 (Glacier Blue, 6GB RAM, 64GB Storage)",
-            "points":[
-                "48+13+8MP triple rear camera with IMX582, 1/2.0 inch, 1.6 micormeter, 6P, f1.75, FOV79, AF, OL, 13MP (S5K3L6 1/3 inch, 1.12 micrometer, 5P, f2.4, FOV124.8, FF), 8MP (OV8856 1/4 inch, 1.12 micrometer, 5P, f2.4, FOV44.5, AF, OL, PDAF), slow motion support - 960 fps | 20MP front facing popup camera with R/B LED-aperture-f2.2, pixel size - 0.8 micrometer"  ,  " 16.23 centimeters (6.39-inch) FHD+ AMOLED multi-touch capacitive touchscreen with 2340 x 1080 pixels resolution, 403 ppi pixel density"  ,  " Memory, Storage & SIM: 6GB RAM | 64GB internal memory | Dual SIM (nano+nano) dual-standby (4G+4G)"  ,  " Android Pie v9.0 operating system with 2x2.2GHz Kryo 470 + 6x1.8GHz Kryo 470 Qualcomm Snapdragon 730 octa core processor, Adreno 618"  ,  " 4000mAH lithium-polymer battery"  ,  " 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"  ,  " Box also includes: Power adapter, simple protective cover, USB type-c cable, SIM eject tool, user guide and warranty card"
-            ],
-            "description":"The K20 opens up new possibilities. The 48 MP AI Triple camera setup lets you see things from a different perspective altogether. Be it ultra-wides or telephoto shots, the K20 produces flawless images. Powered by the Qualcomm Snapdragon 730 and a 4000 mAh battery, this device finds a perfect balance between performance and power efficiency. The Aura Prime design gives the device a unique look while the Corning Gorilla Glass 5 on the front and back enhances the overall user experience.",
-            "price":269.41,
-            "notes":"",
-            "currency":"£",
-            "images":[
-                "/images/products/10/10-redmi-2.jpg",
-                "/images/products/10/10-redmi-1.jpg",
-                "/images/products/10/10-redmi-2.jpg",
-                "/images/products/10/10-redmi-1.jpg",
-                "/images/products/10/10-redmi-2.jpg"
-            ],
-            "rating":4.5,
-            "offer":0.00,
-            "details":[
-                "RAM: 6 GB"  ,  " Item Weight: 399 g"  ,  " Package Dimensions: 15 x 15 x 5 cm"  ,  " Batteries: 1 Lithium ion batteries required. (included)"  ,  " Special features: Front Camera, Rear Camera"  ,  " Colour: Midnight Blue"
-                ,"Weight: 249 Grams"
-            ],
-            "tags":[
-                "Redmi",
-                "phones",
-                "mobiles",
-                "K20"
-            ],
-            "category":"Phones",
-            "subcategory":"Redmi"
-        }
+    "type": "add",
+    "id": 10,
+    "fields": {
+    "name": "Smart Watch,Hevoiok Casual Fashion Trend 2019 Newest Bluetooth Smart Wristwatches with Heart Rate Track Monitor Sleep Monitoring Calories Counter Pedometer Message Notification Sport Watch",
+    "points": [
+    "The Express usually takes 2-3 days to deliver to you, but the shipping cost is more expensive, so please pay attention when purchase. If you have any questions, please feel free to contact us and we are happy to solve any problems for you.",
+    "The function of this smart watch:Calories Counter/Sleep Monitoring/Pedometer/Sport Mode/Call Reminder/Social Sharing/Music/Alarm Clock etc. This smart watch has a wealth of features to meet every aspect of your everyday life.",
+    "Compatible with iPhone and Android Phones. Huawei, XIAOMI, Lenovo, LG, Samsung, Sony, HTC, Motorola, Google, Nokia etc.",
+    "Sport Smartwatch Classic Smartwatch Fashion Men's Watch Smart Bracelet Smart Wristband Bluetooth Smart Watch smart watches for iphone smart watches for android phones waterproof smartwatch Bluetooth Smartwatch for Android IOS Waterproof Smart Wristband with Heart Rate Monitor Women Bluetooth Smartwatch smart fitness tracker Touch Screen Smart Watch Men Bluetooth Smart Watches Compatible with Android and IOS IP67 waterproof smart watches",
+    "Smart Watch with Heart Rate and Fitness Tracker Sleep Analysis calories counter blood pressure monitor sleep monitor call SMS SNS reminder alarm clock GPS route sedentary remind sleep tracker Heart Rate Monitor Pedometer SMS Call Notification Music GPS 4G WIFI SIM Card Blood Pressure Step Counter Camera Sync Calls Notification Layered Display technology NFC Payments Google Assistant Wrist Wear Smart Watch smart watch for ios smart watches for women Smart Watch"
+    ],
+    "description": "This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
+    "price": 14,
+    "notes": "Save on a huge selection of men's, women's and kids' watches and accessories in our Watch Deals store",
+    "currency": "£",
+    "images": [
+    "/images/products/10/image1.jpg",
+    "/images/products/10/image2.jpg",
+    "/images/products/10/image3.jpg",
+    "/images/products/10/image4.jpg",
+    "/images/products/10/image5.jpg"
+    ],
+    "rating": 3.1,
+    "offer": 0.1,
+    "details": [
+    "Brand Name: Hevoiok_Fashion Smart Watches",
+    "Model number: DJHZYF-151008-SW-0007",
+    "Model Year: 2018",
+    "Item Shape: Round",
+    "Band Material: Silicon",
+    "Band Width: 24 millimetres"
+    ],
+    "tags": [
+    "Hevoiok_Fashion Smart Watches",
+    "2018",
+    "Watch"
+    ],
+    "category": "Watches",
+    "subcategory": "Automatic"
+    }
     },
+        {
+        "type": "add",
+        "id": 11,
+        "fields": {
+        "category": "Computers",
+        "rating": 2,
+        "subcategory": "Laptops",
+        "tags": [
+        "Laptops",
+        "hp",
+        "windows"
+        ],
+        "notes": "some notes",
+        "offer": 0.2,
+        "name": "HP 15 Intel Core i5 (8GB DDR4/1TB HDD/Win 10/MS Office/Integrated Graphics/2.04 kg), Full HD Laptop (15.6-inch, Sparkling Black) 15q-ds0029TU",
+        "currency": "£",
+        "points": [
+        "7th Gen Intel i5-7200U (2.5 GHz base processor speed, 3 MB SmartCache, 2 cores)",
+        "Max Boost Clock Up to 3.1 GHz",
+        "Windows 10 Home with lifetime validity",
+        "Microsoft Office Home & Student 2016 Lifetime edition",
+        "8GB DDR4-2400 RAM",
+        "Expandable to 16 GB",
+        "1TB 5400 RPM HDD",
+        "The fueling capacity of the device is maintained with the presence of 3 cell Li-Ion battery",
+        "which quite resoundingly provides an excellent battery back up"
+        ],
+        "details": [
+        "Brand : HP",
+        "Series : 15q",
+        "Colour : Sparkling Black",
+        "Item Height : 23 Millimeters",
+        "Item Width : 24.6 Centimeters",
+        "Screen Size : 15.6 Inches",
+        "Notebook Display Technology : LED",
+        "Screen Resolution : 1920 x 1080 Full HD (1080p)",
+        "Maximum Display Resolution : 1920 x 1080 (Full HD)",
+        "Item Weight : 2.04 Kg",
+        "Product Dimensions : 37.6 x 24.6 x 2.3 cm",
+        "Batteries: : 1 Lithium ion batteries required. (included)",
+        "Item model number : ds0029TU",
+        "Processor Brand : Intel",
+        "Processor Type : Core i5 7200U",
+        "RAM Size : 8 GB",
+        "Memory Technology : DDR4",
+        "Maximum Memory Supported : 16 GB",
+        "Hard Drive Size : 1 TB",
+        "Hard Disk Technology : Mechanical Hard Drive",
+        "Speaker Description : Dual Speaker",
+        "Graphics Coprocessor : Intel Integrated Graphics",
+        "Graphics Card Description : Integrated",
+        "Number of USB 2.0 Ports : 1",
+        "Number of USB 3.0 Ports : 2",
+        "Number of HDMI Ports : 1",
+        "Number of Audio-out Ports : 1",
+        "Number of Ethernet Ports : 1",
+        "Number of Microphone Ports : 1",
+        "Optical Drive Type : DVD+RW",
+        "Operating System : Windows 10 Home",
+        "Lithium Battery Energy Content : 41 Watt Hours",
+        "Lithium battery Weight : 0.85 Grams",
+        "Number of Lithium Ion Cells : 3",
+        "Included Components : Laptop, Battery, AC Adapter, User Guide and Manuals"
+        ],
+        "images": [
+        "/images/products/11/11_HP.jpg",
+        "/images/products/11/11-hp-front.jpeg",
+        "/images/products/11/11-hp-left.jpeg",
+        "/images/products/11/11-hp-lid.jpeg"
+        ],
+        "price": 41990,
+        "description": ""
+        }
+        },
+        {
+        "type": "add",
+        "id": 12,
+        "fields": {
+        "category": "Computers",
+        "rating": 4,
+        "subcategory": "Laptops",
+        "tags": [
+        "Laptops",
+        "lenovo",
+        "windows"
+        ],
+        "notes": "some notes",
+        "offer": 0.2,
+        "name": "Lenovo Ideapad 330 Intel Core i5 8th Gen 15.6-inch Full HD Laptop (8GB DDR4/1TB HDD/Windows 10 Home/Platinum Grey/ 2.2kg), 81DE008PIN",
+        "currency": "£",
+        "points": [
+        "7th Gen Intel i5-7200U (2.5 GHz base processor speed, 3 MB SmartCache, 2 cores)",
+        "Max Boost Clock Up to 3.1 GHz",
+        "Windows 10 Home with lifetime validity",
+        "Microsoft Office Home & Student 2016 Lifetime edition",
+        "8GB DDR4-2400 RAM",
+        "Expandable to 16 GB",
+        "1TB 5400 RPM HDD",
+        "The fueling capacity of the device is maintained with the presence of 3 cell Li-Ion battery",
+        "which quite resoundingly provides an excellent battery back up"
+        ],
+        "details": [
+        "Brand:Lenovo",
+        "Series:Ideapad 330",
+        "Colour:Platinum Gray",
+        "Form Factor:Clamshell",
+        "Item Height:23 Millimeters",
+        "Item Width:26 Centimeters",
+        "Screen Size:15.6 Inches",
+        "Maximum Display Resolution:1920 x 1080 (Full HD)",
+        "Item Weight:2.2 Kg",
+        "Product Dimensions:37.8 x 26 x 2.3 cm",
+        "Batteries::1 Lithium Polymer batteries required. (included)",
+        "Item model number:81DE008PIN",
+        "Processor Brand:Intel",
+        "Processor Type:Core i5 8250U",
+        "Processor Speed:1.60 GHz",
+        "Processor Count:4",
+        "RAM Size:8 GB",
+        "Memory Technology:DDR4",
+        "Computer Memory Type:DDR4 SDRAM",
+        "Maximum Memory Supported:8 GB",
+        "Hard Drive Size:1 TB",
+        "Hard Disk Technology:Mechanical Hard Drive",
+        "Hard Drive Interface:eSATA",
+        "Speaker Description:Dolby Audio (2x1.5W)",
+        "Graphics Coprocessor:Integrated Graphics",
+        "Graphics Card Description:Integrated",
+        "Graphics Card Interface:Integrated",
+        "Connectivity Type:Wifi 1x1 AC, Bluetooth 4.1",
+        "Number of USB 3.0 Ports:1",
+        "Number of HDMI Ports:1",
+        "Number of Audio-out Ports:1",
+        "Number of Ethernet Ports:1",
+        "Number of Microphone Ports:1",
+        "Optical Drive Type:NO ODD",
+        "Hardware Platform:Windows"
+        ],
+        "images": [
+        "/images/products/12/12-lenovo-front.jpeg",
+        "/images/products/12/12-lenovo-full.jpeg",
+        "/images/products/12/12-lenovo-gallery.jpeg",
+        "/images/products/12/12-lenovo-section.jpeg"
+        ],
+        "price": 41990,
+        "description": "Sometimes it’s best to keep things simple. Stacked with premium Intel processing and discrete graphics options, the Idea Pad 330 is as powerful as it is easy to use. Available in a range of sophisticated colors, it’s safe, durable, and ready for today’s tasks - and tomorrow’s. A laptop isn’t just a piece of electronics - it’s also an investment. That’s why we designed the Idea Pad 330 with a special protective finish to guard against wear and tear, as well as rubber detailing on the bottom to maximize ventilation and extend component life. You’ll experience lightning-fast responsiveness and reliable performance. Store thousands of videos, photos and files in your laptop locally. We are committed to providing an uncluttered desktop and a safer PC experience out of the box."
+        }
+        },
+        {
+        "type": "add",
+        "id": 13,
+        "fields": {
+        "category": "Computers",
+        "rating": 4,
+        "subcategory": "Laptops",
+        "tags": [
+        "Laptops",
+        "dell",
+        "windows"
+        ],
+        "notes": "some notes",
+        "offer": 0.3,
+        "name": "Dell Inspiron Core i5 8th Gen 8250U 2018 (8 GB RAM /2 TB HDD/Windows 10/MS Office/2 GB Graphics), 3576 Laptop, (15.6 inch, Black)",
+        "currency": "£",
+        "points": [
+        "7th Gen Intel i5-7200U (2.5 GHz base processor speed, 3 MB SmartCache, 2 cores)",
+        "Max Boost Clock Up to 3.1 GHz",
+        "Windows 10 Home with lifetime validity",
+        "Microsoft Office Home & Student 2016 Lifetime edition",
+        "8GB DDR4-2400 RAM",
+        "Expandable to 16 GB",
+        "1TB 5400 RPM HDD",
+        "The fueling capacity of the device is maintained with the presence of 3 cell Li-Ion battery",
+        "which quite resoundingly provides an excellent battery back up"
+        ],
+        "details": [
+        "Brand:Lenovo",
+        "Series:Ideapad 330",
+        "Colour:Platinum Gray",
+        "Form Factor:Clamshell",
+        "Item Height:23 Millimeters",
+        "Item Width:26 Centimeters",
+        "Screen Size:15.6 Inches",
+        "Maximum Display Resolution:1920 x 1080 (Full HD)",
+        "Item Weight:2.2 Kg",
+        "Product Dimensions:37.8 x 26 x 2.3 cm",
+        "Batteries::1 Lithium Polymer batteries required. (included)",
+        "Item model number:81DE008PIN",
+        "Processor Brand:Intel",
+        "Processor Type:Core i5 8250U",
+        "Processor Speed:1.60 GHz",
+        "Processor Count:4",
+        "RAM Size:8 GB",
+        "Memory Technology:DDR4",
+        "Computer Memory Type:DDR4 SDRAM",
+        "Maximum Memory Supported:8 GB",
+        "Hard Drive Size:1 TB",
+        "Hard Disk Technology:Mechanical Hard Drive",
+        "Hard Drive Interface:eSATA",
+        "Speaker Description:Dolby Audio (2x1.5W)",
+        "Graphics Coprocessor:Integrated Graphics",
+        "Graphics Card Description:Integrated",
+        "Graphics Card Interface:Integrated",
+        "Connectivity Type:Wifi 1x1 AC, Bluetooth 4.1",
+        "Number of USB 3.0 Ports:1",
+        "Number of HDMI Ports:1",
+        "Number of Audio-out Ports:1",
+        "Number of Ethernet Ports:1",
+        "Number of Microphone Ports:1",
+        "Optical Drive Type:NO ODD",
+        "Hardware Platform:Windows"
+        ],
+        "images": [
+        "/images/products/13/13-dell-screen.jpeg",
+        "/images/products/13/13-dell-cross.jpeg",
+        "/images/products/13/13-dell-lid.jpeg",
+        "/images/products/13/13-dell-panel.jpeg"
+        ],
+        "price": 41990,
+        "description": "Sometimes it’s best to keep things simple. Stacked with premium Intel processing and discrete graphics options, the Idea Pad 330 is as powerful as it is easy to use. Available in a range of sophisticated colors, it’s safe, durable, and ready for today’s tasks - and tomorrow’s. A laptop isn’t just a piece of electronics - it’s also an investment. That’s why we designed the Idea Pad 330 with a special protective finish to guard against wear and tear, as well as rubber detailing on the bottom to maximize ventilation and extend component life. You’ll experience lightning-fast responsiveness and reliable performance. Store thousands of videos, photos and files in your laptop locally. We are committed to providing an uncluttered desktop and a safer PC experience out of the box."
+        }
+        },
+        {
+        "type": "add",
+        "id": 14,
+        "fields": {
+        "category": "Computers",
+        "rating": 5,
+        "subcategory": "Laptops",
+        "tags": [
+        "Laptops",
+        "Acer",
+        "windows"
+        ],
+        "notes": "some notes",
+        "offer": 0.2,
+        "name": "Acer Nitro 5 Ryzen 5 Quad Core - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) AN515-43 Gaming Laptop  (15.6 inch, Obsidian Black, 2.3 kg)",
+        "currency": "£",
+        "points": [
+        "7th Gen Intel i5-7200U (2.5 GHz base processor speed, 3 MB SmartCache, 2 cores)",
+        "Max Boost Clock Up to 3.1 GHz",
+        "Windows 10 Home with lifetime validity",
+        "Microsoft Office Home & Student 2016 Lifetime edition",
+        "8GB DDR4-2400 RAM",
+        "Expandable to 16 GB",
+        "1TB 5400 RPM HDD",
+        "The fueling capacity of the device is maintained with the presence of 3 cell Li-Ion battery",
+        "which quite resoundingly provides an excellent battery back up"
+        ],
+        "details": [
+        "Brand:iBAll",
+        "Series:Ideapad 330",
+        "Colour:Platinum Gray",
+        "Form Factor:Clamshell",
+        "Item Height:23 Millimeters",
+        "Item Width:26 Centimeters",
+        "Screen Size:15.6 Inches",
+        "Maximum Display Resolution:1920 x 1080 (Full HD)",
+        "Item Weight:2.2 Kg",
+        "Product Dimensions:37.8 x 26 x 2.3 cm",
+        "Batteries::1 Lithium Polymer batteries required. (included)",
+        "Item model number:81DE008PIN",
+        "Processor Brand:Intel",
+        "Processor Type:Core i5 8250U",
+        "Processor Speed:1.60 GHz",
+        "Processor Count:4",
+        "RAM Size:8 GB",
+        "Memory Technology:DDR4",
+        "Computer Memory Type:DDR4 SDRAM",
+        "Maximum Memory Supported:8 GB",
+        "Hard Drive Size:1 TB",
+        "Hard Disk Technology:Mechanical Hard Drive",
+        "Hard Drive Interface:eSATA",
+        "Speaker Description:Dolby Audio (2x1.5W)",
+        "Graphics Coprocessor:Integrated Graphics",
+        "Graphics Card Description:Integrated",
+        "Graphics Card Interface:Integrated",
+        "Connectivity Type:Wifi 1x1 AC, Bluetooth 4.1",
+        "Number of USB 3.0 Ports:1",
+        "Number of HDMI Ports:1",
+        "Number of Audio-out Ports:1",
+        "Number of Ethernet Ports:1",
+        "Number of Microphone Ports:1",
+        "Optical Drive Type:NO ODD",
+        "Hardware Platform:Windows"
+        ],
+        "images": [
+        "/images/products/14/14-iBall-front.jpg",
+        "/images/products/14/13-iBall-cross.jpeg",
+        "/images/products/14/13-iBall-lid.jpeg",
+        "/images/products/14/13-iBall-open.jpeg"
+        ],
+        "price": 41990,
+        "description": "Sometimes it’s best to keep things simple. Stacked with premium Intel processing and discrete graphics options, the Idea Pad 330 is as powerful as it is easy to use. Available in a range of sophisticated colors, it’s safe, durable, and ready for today’s tasks - and tomorrow’s. A laptop isn’t just a piece of electronics - it’s also an investment. That’s why we designed the Idea Pad 330 with a special protective finish to guard against wear and tear, as well as rubber detailing on the bottom to maximize ventilation and extend component life. You’ll experience lightning-fast responsiveness and reliable performance. Store thousands of videos, photos and files in your laptop locally. We are committed to providing an uncluttered desktop and a safer PC experience out of the box."
+        }
+        },
+        {
+        "type": "add",
+        "id": 15,
+        "fields": {
+        "category": "Computers & Accessories",
+        "rating": 5,
+        "subcategory": "Laptops",
+        "tags": [
+        "Laptops",
+        "iBall",
+        "windows"
+        ],
+        "notes": "some notes",
+        "offer": 0.2,
+        "name": "iBall Marvel 6 V 2.0 2017 14-inch Laptop (Intel Celeron Processor N3350/3GB/32GB/Windows 10 Home/Integrated Graphics), Metallic Grey",
+        "currency": "£",
+        "points": [
+        "7th Gen Intel i5-7200U (2.5 GHz base processor speed, 3 MB SmartCache, 2 cores)",
+        "Max Boost Clock Up to 3.1 GHz",
+        "Windows 10 Home with lifetime validity",
+        "Microsoft Office Home & Student 2016 Lifetime edition",
+        "8GB DDR4-2400 RAM",
+        "Expandable to 16 GB",
+        "1TB 5400 RPM HDD",
+        "The fueling capacity of the device is maintained with the presence of 3 cell Li-Ion battery",
+        "which quite resoundingly provides an excellent battery back up"
+        ],
+        "details": [
+        "Brand:iBAll",
+        "Series:Ideapad 330",
+        "Colour:Platinum Gray",
+        "Form Factor:Clamshell",
+        "Item Height:23 Millimeters",
+        "Item Width:26 Centimeters",
+        "Screen Size:15.6 Inches",
+        "Maximum Display Resolution:1920 x 1080 (Full HD)",
+        "Item Weight:2.2 Kg",
+        "Product Dimensions:37.8 x 26 x 2.3 cm",
+        "Batteries::1 Lithium Polymer batteries required. (included)",
+        "Item model number:81DE008PIN",
+        "Processor Brand:Intel",
+        "Processor Type:Core i5 8250U",
+        "Processor Speed:1.60 GHz",
+        "Processor Count:4",
+        "RAM Size:8 GB",
+        "Memory Technology:DDR4",
+        "Computer Memory Type:DDR4 SDRAM",
+        "Maximum Memory Supported:8 GB",
+        "Hard Drive Size:1 TB",
+        "Hard Disk Technology:Mechanical Hard Drive",
+        "Hard Drive Interface:eSATA",
+        "Speaker Description:Dolby Audio (2x1.5W)",
+        "Graphics Coprocessor:Integrated Graphics",
+        "Graphics Card Description:Integrated",
+        "Graphics Card Interface:Integrated",
+        "Connectivity Type:Wifi 1x1 AC, Bluetooth 4.1",
+        "Number of USB 3.0 Ports:1",
+        "Number of HDMI Ports:1",
+        "Number of Audio-out Ports:1",
+        "Number of Ethernet Ports:1",
+        "Number of Microphone Ports:1",
+        "Optical Drive Type:NO ODD",
+        "Hardware Platform:Windows"
+        ],
+        "images": [
+        "/images/products/15/15-acer-front.jpeg",
+        "/images/products/15/15-acer-cross.jpeg",
+        "/images/products/15/15-acer-top.jpeg",
+        "/images/products/15/15-acer-lid.jpeg"
+        ],
+        "price": 41990,
+        "description": "Sometimes it’s best to keep things simple. Stacked with premium Intel processing and discrete graphics options, the Idea Pad 330 is as powerful as it is easy to use. Available in a range of sophisticated colors, it’s safe, durable, and ready for today’s tasks - and tomorrow’s. A laptop isn’t just a piece of electronics - it’s also an investment. That’s why we designed the Idea Pad 330 with a special protective finish to guard against wear and tear, as well as rubber detailing on the bottom to maximize ventilation and extend component life. You’ll experience lightning-fast responsiveness and reliable performance. Store thousands of videos, photos and files in your laptop locally. We are committed to providing an uncluttered desktop and a safer PC experience out of the box."
+        }
+        },
+        {
+        "type": "add",
+        "id": 16,
+        "fields": {
+        "category": "Computers",
+        "rating": 3,
+        "subcategory": "Desktops",
+        "tags": [
+        "desktop",
+        "Punta",
+        "windows"
+        ],
+        "notes": "",
+        "offer": 0.2,
+        "name": "PUNTA SuperTech Pc Core2Duo processor/4GB Ram/160GB Hard Disk/15.4 inch LED Monitor/Keyboard and Mouse/WiFi Adapter",
+        "currency": "£",
+        "points": [
+        "Core 2 Duo Processor Intel chipset G31 Motherboard - 2GB DDR2 RAM and 160 GB Hard Drive Seagate/Western Digital FRONTECH/ZEBRONICS/INTEX Cabinet and SMPS USB Wi-Fi Adapter 17inch LED Monitor Keyboard and Mouse",
+        "2GB DDR2 RAM and 160 GB Hard Drive",
+        "USB Wi-Fi Adapter 17inch LED Monitor Keyboard and Mouse"
+        ],
+        "details": [
+        "Brand:PUNTA",
+        "Item part number: B2B_12",
+        "RAM Size: 4 GB",
+        "Hard Drive Size: 160 GB",
+        "Processor Type: Core 2 duo",
+        "Batteries Included: No",
+        "Batteries required: No"
+        ],
+        "images": [
+        "/images/products/16/16-punta-full.png",
+        "/images/products/16/16-punta-cpu.jpg",
+        "/images/products/16/16-punta-connectors.jpg",
+        "/images/products/16/16-punta-monitor.jpg"
+        ],
+        "price": 10990,
+        "description": "Sales Package: SuperTech PUNTA Desktop Computer( INTEL CORE 2 DUO 2.8 GHZ Processor, G 31 8 INTEL CHIPSET Motherboard, KRYSTAL 17inch WIDE LED Monitor, 2 GB RAM, 160 GB Hard Disk, Cabinet, FRONTECH/INTEX/ZEBRONICS Wired USB Keyboard Mouse, Mini Wi Fi USB Adaptor, Windows 10 (Trial Version) 64 Bit & MS Office Installed (Trial Version), Microsoft Office (Trial Version). All Connecting Wires (Power Cable, LED Monitor VGA Cable) Comes with this PC."
+        }
+        },
+        {
+        "type": "add",
+        "id": 17,
+        "fields": {
+        "category": "Computers",
+        "rating": 3,
+        "subcategory": "Desktops",
+        "tags": [
+        "desktop",
+        "lenovo",
+        "windows",
+        "linux"
+        ],
+        "notes": "",
+        "offer": 0.2,
+        "name": "Lenovo Ideacentre A340 8th Gen Intel Core I3 21.5 inch All in One Desktop (4GB/ 1 TB HDD/Windows 10/ Integrated Graphics/DVD-RW/Black), F0EB000FIN",
+        "currency": "£",
+        "points": [
+        "Processor: 8th Generation Core Intel I3-8145U processor 2.1 Ghz base speed, 3.9 Ghz max speed, 2 cores, 4 Mb Smart Cache",
+        "Display: 21.5 inch Full HD (1920 X 1080) Full HD Display | Anti Glare Technology | Borderless Display | 2 Side Narrow Bezel",
+        "This genuine Lenovo desktop comes with 1 year onsite domestic warranty from Lenovo covering manufacturing defects and not covering physical damage. For more details, see Warranty section"
+        ],
+        "details": [
+        "Brand: lenovo",
+        "Series: Ideacentre A340",
+        "RAM Size: 4 GB",
+        "Hard Drive Size: 1 TB",
+        "Processor Type: Core 2 duo",
+        "Speaker: 3Watts Speaker*2",
+        "Operating System: Windows 10, Home"
+        ],
+        "images": [
+        "/images/products/17/17-lenovo-monitor.jpg",
+        "/images/products/17/17-lenovo-cross.jpg",
+        "/images/products/17/17-lenovo-back.jpg",
+        "/images/products/17/17-lenovo-monitor.jpg"
+        ],
+        "price": 39990,
+        "description": "With its sleek, modern stand and thin bezel display, the IdeaCentre A340 is designed to catch the eye. Fire it up and marvel at the way it handles everything with ease, quickly and smoothly. Even with the space-saving design, it can store plenty, too. All in all, this 21.5\" all-in-one makes the ideal home PC."
+        }
+        },
+        {
+        "type": "add",
+        "id": 18,
+        "fields": {
+        "category": "Computers",
+        "rating": 3,
+        "subcategory": "Desktops",
+        "tags": [
+        "desktop",
+        "Rolltop",
+        "windows",
+        "linux",
+        "Assembled Desktop"
+        ],
+        "notes": "",
+        "offer": 0.2,
+        "name": "Rolltop Assembled Desktop Core 2 Duo 3.0 GHZ Processor, G31 Motherboard, 15.4\" LED Monitor, 4 GB RAM, 16 GB Pen Drive, Windows 7 Ultimate Trial Version",
+        "currency": "£",
+        "points": [
+        "Sales Package: 1 ROLLTOP Assembled Desktop Computer( INTEL CORE 2 DUO 3.0 GHZ Processor, G 31 Motherboard, Consistent 15.4 inch LED Monitor, 4 GB RAM, Hard Disk, iball Keyboard Mouse, Wi Fi USB Adaptor , 16 Gb Pen Drive, Windows 7 Installed (Trial Version)",
+        "ROLLTOP PC is Suitable for Office Work, Home Work, Education, College Projects, Computer Programming, Entertainment, Tally, Compatible with Adobe Photoshop, Corel Draw, C, C,,, Java and Other Programming, GST Software)",
+        "Operating System and other Drivers: PC Comes with Windows 7; Ultimate MS Office (Trail Version) installed and Ready to Use However, Customer Can install Windows 7, Windows 8 or Windows 10 on its own All the Required Drivers, Motherboard, LED, Wi-Fi Adaptor etc are installed in Your PC Computer Comes with Free wi-fi Bluetooth Devices Which makes Computer to connect all wi-fi devices wirelessly, Computer can be connected with Bluetooth Speaker, Printer, wi-fi, Headset, Mobile, tablet etc",
+        "Operating System and Other Drivers: ROLLTOP Computer comes with all Parts Assembled & Windows 7 (Trial Version) Installed. Other Driver of Motherboard, wifi Adaptor etc are also Installed. Customer needs to just Connect the Power Cable, VGA Cable, Keyboard and Mouse with Power Supply. (Ready to Use). The Trial Period of Windows is 90 Days, Customer Can contuniue to use using own Keys or Install any other Windows Version 7, 8 or 10 etc. The Windows/Software is Not in Warrenty."
+        ],
+        "details": [
+        "Brand: ROLLTOP",
+        "Product Dimensions : 30 x 25 x 15 cm",
+        "Computer Memory Type: DDR2 SDRAM",
+        "RAM Size: 4 GB",
+        "Hard Drive Size: 1 TB",
+        "Processor Type: Pentium Dual-Core",
+        "Speaker: 3Watts Speaker*2",
+        "Operating System: Windows 7 Ultimate"
+        ],
+        "images": [
+        "/images/products/18/18-rolltop-full.jpg",
+        "/images/products/18/18-rolltop-connectors.jpg",
+        "/images/products/16/16-punta-cpu.jpg",
+        "/images/products/17/17-lenovo-monitor.jpg"
+        ],
+        "price": 39990,
+        "description": "ROLLTOP Assembled Desktop Computer|INTEL CORE 2 DUO 3 GHZ Processor |G 31 Motherboard |Consistent 15.4 inch LED Monitor| |4 GB RAM | Hard Disk | Cabinet | iBall Keyboard Mouse | Mini Wi Fi USB Adaptor | 16 GB Pen Drive | Windows 7 Installed (Trial Version)"
+        }
+        },
+        {
+        "type": "add",
+        "id": 19,
+        "fields": {
+        "category": "Computers",
+        "rating": 3,
+        "subcategory": "Desktops",
+        "tags": [
+        "desktop",
+        "ANT PC Lasius",
+        "Gaming pc",
+        "Linux",
+        "Assembled Desktop",
+        "Nvidia"
+        ],
+        "notes": "",
+        "offer": 0.9,
+        "name": "ANT PC Lasius TH920X Gaming PC (AMD ThreadRipper 2920X/2 x Nvidia Geforce RTX 2080 Ti 11GB GPU/ X399 Gaming PRO Carbon AC MB/64 GB (16GB*4) RGB 3200Mhz DDR4 RAM/ 4 TB SATA HDD/1TB m.2 SSD/1200W PSU)",
+        "currency": "£",
+        "points": [
+        "AMD ThreadRipper 2920X (12 cores, 24 threads, 3.5GHz)",
+        "2 x Nvidia Geforce RTX 2080 Ti 11GB Graphic Card",
+        "Motherboard X399 Gaming PRO Carbon AC",
+        "4 TB SATA HDD/ 1TB m.2 SSD",
+        "64 GB (16GB*4) RGB 3200Mhz DDR4 RAM"
+        ],
+        "details": [
+        "Brand: Ant PC",
+        "Product Dimensions : 87 x 65 x 32 cm",
+        "Item model number: Lasius TH920X",
+        "Computer Memory Type: DDR SDRAM",
+        "RAM Size: 64 GB",
+        "Hard Drive Size: 4 TB",
+        "Processor Type: NVIDIA"
+        ],
+        "images": [
+        "/images/products/19/19-ANT-1.jpg",
+        "/images/products/19/19-ANT-2.jpg",
+        "/images/products/19/19-ANT-3.jpg",
+        "/images/products/19/19-ANT-4.jpg"
+        ],
+        "price": 214990,
+        "description": "Ant PC Lasius IL970K Gaming PC (Intel core i7 9700K/ Nvidia Geforce RTX 2080Ti 11GB GPU/ Z390 A PRO MB/ 32GB (16GB*2) 3000Mhz DDR4 RAM/ 2 TB SATA HDD/ 500GB m.2 SSD/ 750watt 80+ Gold PSU )"
+        }
+        },
+        {
+        "type": "add",
+        "id": 20,
+        "fields": {
+        "category": "Computers",
+        "rating": 3,
+        "subcategory": "Desktops",
+        "tags": [
+        "desktop",
+        "Apple",
+        "Gaming pc",
+        "Mac mini"
+        ],
+        "notes": "",
+        "offer": 0.9,
+        "name": "Apple Mac Mini MRTT2HN/A Desktop (Intel Core i5/8GB/256GB SSD), Space Grey",
+        "currency": "£",
+        "points": [
+        "Quad-core i3 or 6-core i5 8th-generation Intel Core processor",
+        "8GB 2666MHz DDR4",
+        "macOS Mojave, inspired by pros but designed for everyone, with Dark Mode, Stacks, easier screenshots, new built-in apps, and more",
+        "Gigabit Ethernet and 802.11ac Wi-Fi",
+        "Four Thunderbolt 3 (USB-C) ports, one HDMI 2.0 port, and two USB 3 ports"
+        ],
+        "details": [
+        "Processor: 6-Core 3.0GHz 6-core Intel Core i5, Turbo Boost up to 4.1GHz, 9MB shared L3 cache",
+        "Product Dimensions : 87 x 65 x 32 cm",
+        "Video Support: Support for the following combination of maximum concurrent display setups, Thunderbolt 3 digital video output supports, HDMI 2.0 display video output",
+        "Connections and Expansion: DisplayPort, Thunderbolt (up to 40 Gbps), USB 3.1 Gen 2 (up to 10 Gbps), Thunderbolt 2, HDMI, DVI, and VGA supported using adapters (sold separately), Two USB 3 ports (up to 5 Gbps), HDMI 2.0 port, Gigabit Ethernet port (configurable to 10Gb Ethernet), 3.5 mm headphone jack",
+        "RAM Size: 64 GB",
+        "Hard Drive Size: 4 TB",
+        "Processor Type: NVIDIA"
+        ],
+        "images": [
+        "/images/products/20/20-macmini-1.jpg",
+        "/images/products/20/20-macmini-2.jpg"
+        ],
+        "price": 104990,
+        "description": "802.11ac Wi-Fi wireless networking IEEE 802.11a/b/g/n compatible, Bluetooth 5.0 wireless technology"
+        }
+        },
+        {
+        "type": "add",
+        "id": 21,
+        "fields": {
+        "category": "Computers",
+        "rating": 3,
+        "subcategory": "Head Phones",
+        "tags": [
+        "Head Phones",
+        "Cosmic",
+        "headset"
+        ],
+        "notes": "",
+        "offer": 0.6,
+        "name": "Cosmic Byte GS410 Headphones with Mic (Black/Red)",
+        "currency": "£",
+        "points": [
+        "Primary kind of gaming headset, perfect for playing games, listening music, etc.",
+        "Soft cushion head-pad and ear-pad, as well as adjustable length hinges guarantee hours of gaming comfort",
+        "Delivers clear sound and deep bass for real game, little smart in-line Remote Control for sound and mic",
+        "Flexible microphone for exact positioning and mic with great sensitivity at picking up sounds, your partner can hear your words clearly, Single 3.5mm Jack for sound and mic"
+        ],
+        "details": [
+        "Model: Cosmic Byte Kotion Each GS420",
+        "Impedance: 32 ohm",
+        "Sensitivity: 105dB plus/minus 3dB at 1KHz",
+        "Frequency range: 15Hz-20KHz",
+        "Headset interface: 3.5 mm",
+        "Cable length: 2.1m",
+        "Color: Black/Red."
+        ],
+        "images": [
+        "/images/products/21/21-headphone-1.jpg",
+        "/images/products/21/21-headphone-2.jpg",
+        "/images/products/22/22-boat-2.jpg",
+        "/images/products/22/22-boat-3.jpg"
+        ],
+        "price": 990,
+        "description": "Primary kind of gaming headset, perfect for playing games, listening music, etc. Soft cushion head-pad and ear-pad, as well as adjustable length hinges guarantee hours of gaming comfort Delivers clear sound and deep bass for real game, little smart in-line Remote Control for sound and mic Flexible   microphone for exact positioning and mic with great sensitivity at picking up sounds, your partner can hear your words clearly Single 3.5mm Jack for sound and mic"
+        }
+        },
+        {
+        "type": "add",
+        "id": 22,
+        "fields": {
+        "category": "Computers",
+        "rating": 3,
+        "subcategory": "Head Phones",
+        "tags": [
+        "Head Phones",
+        "Boat",
+        "headset"
+        ],
+        "notes": "",
+        "offer": 0.6,
+        "name": "Boat BassHeads 900 Wired Headphone with Mic",
+        "currency": "£",
+        "points": [
+        "Super Extra Bass: Enjoy powerful, dynamic sound with punchy bass and clear, natural vocals with the responsive 40mm Neodymium drivers, balanced sound for a complete listening experience from 20 - 20,000 Hz",
+        "Feather Light: The sleek, lightweight and compact design makes portability extremely convenient",
+        "Snug Fit: The on-ear headphones with swivel earcups offers flexible wearing and a comfortable fit for everyone",
+        "Frequency: 20Hz - 20KHz"
+        ],
+        "details": [
+        "Brand : Boat",
+        "Model : BH900",
+        "Model Name : Bass Heads 900",
+        "Item Weight : 150 g",
+        "Product Dimensions : 15.5 x 18.5 x 7 cm",
+        "Batteries: : 1 Lithium ion batteries required.",
+        "Item model number : BH900",
+        "Compatible Devices : All Bluetooth Devices",
+        "Additional Features : SUPER EXTRAAAA BASS, FEATHER LIGHT, SNUG FIT, COMPACT AND FOLDABLE",
+        "Included Components : Headphones",
+        "Number Of Items : 1",
+        "Microphone Form Factor : With Microphone",
+        "Headphones Form Factor : On Ear",
+        "Batteries Included : No",
+        "Batteries Required : No",
+        "Battery Cell Composition : Lithium Ion",
+        "Connector Type : Wired"
+        ],
+        "images": [
+        "/images/products/22/22-boat-1.jpg",
+        "/images/products/22/22-boat-2.jpg",
+        "/images/products/22/22-boat-3.jpg",
+        "/images/products/22/21-headphone-2.jpg"
+        ],
+        "price": 790,
+        "description": "The Boat bass heads really live up to their name by providing amazing Bass for music lovers."
+        }
+        },
     {
         "type":"add",
         "id":11,
@@ -614,7 +1304,7 @@
                 "/images/products/13/13-dell-screen.jpeg",
                 "/images/products/12/12-lenovo-front.jpeg",
                 "/images/products/12/12-lenovo-section.jpeg",
-                "/images/products/13/13-dell-screen.jpeg",
+                "/images/products/13/13-dell-screen.jpeg"
             ],
             "price":41990.00,
             "description":"Sometimes it’s best to keep things simple. Stacked with premium Intel processing and discrete graphics options, the Idea Pad 330 is as powerful as it is easy to use. Available in a range of sophisticated colors, it’s safe, durable, and ready for today’s tasks - and tomorrow’s. A laptop isn’t just a piece of electronics - it’s also an investment. That’s why we designed the Idea Pad 330 with a special protective finish to guard against wear and tear, as well as rubber detailing on the bottom to maximize ventilation and extend component life. You’ll experience lightning-fast responsiveness and reliable performance. Store thousands of videos, photos and files in your laptop locally. We are committed to providing an uncluttered desktop and a safer PC experience out of the box."
@@ -1161,6 +1851,198 @@
             ],
             "price":890.00,
             "description":"These in-ear headphones are made for those who live their lives on the go. The handy inline microphone lets you take calls with maximum ease, so your smartphone can remain safely stowed in your pocket or bag. Once the call is over, you’ll be able to use the inline remote to jump right back into your favorite tracks."
+        }
+    },
+    {
+        "type":"add",
+        "id":6,
+        "fields":{
+            "name":"Apple iPhone X (64GB) - Space Grey",
+            "points":[
+                "5.8-inch Super Retina display (OLED) with HDR",
+                "IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes)",
+                "12MP dual cameras with dual OIS and 7MP TrueDepth front camera—Portrait mode and Portrait Lighting",
+                "Face ID for secure authentication",
+                "A11 Bionic with Neural Engine",
+                "Wireless charging—works with Qi chargers",
+                "iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime"
+            ],
+            "description":"This product can only be delivered in the following countries : United-Kingdom, Ireland, Germany, France, Belgium, the Netherlands, Luxembourg, Portugal and Spain",
+            "price":999.00,
+            "notes":"iPhone with iOS 12, EarPods with Lightning Connector, Lightning to USB Cable, USB Power Adapter, Documentation",
+            "currency":"£",
+            "images":[
+                "/images/products/26/6-iPhone-3.jpg",
+                "/images/products/26/6-iPhone-4.jpg",
+                "/images/products/26/6-iPhone-3.jpg",
+                "/images/products/26/6-iPhone-4.jpg",
+                "/images/products/26/6-iPhone-3.jpg"
+            ],
+            "rating":4.5,
+            "offer":0.05,
+            "details":[
+                "Display : 5.8-inch Super Retina HD display with HDR and True Tone",
+                "Capacity : 64GB, 256GB",
+                "Splash, Water, and Dust Resistant : All-glass and stainless steel design, water and dust resistant (rated IP67)",
+                "Camera & Video : Dual 12MP cameras with Portrait mode, Portrait Lighting, Auto HDR, and 4K video up to 60 fps", 
+                "Front Camera : 7MP TrueDepth front camera with Portrait mode, Portrait Lighting, and Auto HDR"
+            ],
+            "tags":[
+                "iPhone",
+                "Apple",
+                "Mobile"
+            ],
+            "category":"Phones",
+            "subcategory":"Apple"
+        }
+    },
+    {
+        "type":"add",
+        "id":7,
+        "fields":{
+            "name":"Samsung Galaxy S10 Plus Ceramic White, 12GB RAM, 1TB Storage",
+            "points":[
+                "5.8-inch Super Retina display (OLED) with HDR",
+                "IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes)",
+                "12MP dual cameras with dual OIS and 7MP TrueDepth front camera—Portrait mode and Portrait Lighting",
+                "Face ID for secure authentication",
+                "A11 Bionic with Neural Engine",
+                "Wireless charging—works with Qi chargers",
+                "iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime"
+            ],
+            "description":"Triple rear camera setup: 16MP with f2.2 aperture ultra wide + 12MP with f1.5 and f2.4 aperture wide + 12MP f2.4 tele| Dual front camera setup - 10MP f1.9 Main + 8MP f2.2 live focus 16.35 centimeters (6.4-inch) Dynamic AMOLED multi-touch capacitive touchscreen with 3040 x 1440 pixels resolution, 522 ppi pixel density Memory, Storage and SIM: 12GB RAM | 1024GB internal memory expandable up to 512GB | Dual SIM (nano+nano) dual stand by (4G+4G) Android Pie v9.0 operating system with 2.7GHz + 2.3GHz + 1.9GHz Exynos 9820 octa core processor 4100mAH lithium-ion battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Box also includes: Earphones, Travel Adapter, USB Cable, Ejection Pin, User Manual",
+            "price":1999.00,
+            "notes":"4100mAH lithium-ion battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Box also includes: Earphones, Travel Adapter, USB Cable, Ejection Pin, User Manual",
+            "currency":"£",
+            "images":[
+                "/images/products/27/7-samsung-3.jpg",
+                "/images/products/27/7-samsung-4.jpg",
+                "/images/products/27/7-samsung-3.jpg",
+                "/images/products/27/7-samsung-4.jpg",
+                "/images/products/26/6-iPhone-3.jpg"
+            ],
+            "rating":3.1,
+            "offer":0.25,
+            "details":[
+                "Display : 5.8-inch Super Retina HD display with HDR and True Tone",
+                "Capacity : 64GB, 256GB",
+                "Splash, Water, and Dust Resistant : All-glass and stainless steel design, water and dust resistant (rated IP67)",
+                "Camera & Video : Dual 12MP cameras with Portrait mode, Portrait Lighting, Auto HDR, and 4K video up to 60 fps", 
+                "Front Camera : 7MP TrueDepth front camera with Portrait mode, Portrait Lighting, and Auto HDR"
+            ],
+            "tags":[
+                "Samsung",
+                "phone",
+                "galaxy",
+                "Mobile"
+            ],
+            "category":"phones",
+            "subcategory":"Samsung"
+        }
+    },
+    {
+        "type":"add",
+        "id":8,
+        "fields":{
+            "name":"Nokia 9 (Midnight Blue, 6GB, 128GB)",
+            "points":[
+                "6 GB RAM | 128 GB ROM | 15.21 cm (5.99 inch) QHD+ Display" , "5 x 12MP | 20MP Front Camera" , "3320 mAh Battery" , "Qualcomm Snapdragon 845 Processor" , "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+            ],
+            "description":"Be it colourful photos or classic black-and-white pictures, you can click them all with this stunning smartphone from Nokia. Featuring five 12-megapixel cameras on its back and a 20-megapixel front camera, this handset gives smartphone photography a whole new meaning. And, to make things even better, this smartphone also boasts the Pro Camera UI that lets you make adjustments to different camera settings, such as ISO and white balance, to help your pictures shine like they’re meant to be.",
+            "price":269.41,
+            "notes":"Get 10% cashback up to Rs. 100 using Visa Signature or Visa Infinite cards. Shop during the Visa Shopping Days starting 20th to end of every month. Cashback within 3 days.",
+            "currency":"£",
+            "images":[
+                "/images/products/28/8-nokia-3.png",
+                "/images/products/28/8-nokia-4.jpg",
+                "/images/products/28/8-nokia-3.png",
+                "/images/products/28/8-nokia-4.jpg",
+                "/images/products/27/7-samsung-4.jpg"
+            ],
+            "rating":4.5,
+            "offer":0.00,
+            "details":[
+                "RAM: 6 GB"  ,  " Item Weight: 399 g"  ,  " Package Dimensions: 15 x 15 x 5 cm"  ,  " Batteries: 1 Lithium ion batteries required. (included)"  ,  " Special features: Front Camera, Rear Camera"  ,  " Colour: Midnight Blue"
+                ,"Weight: 249 Grams"
+            ],
+            "tags":[
+                "Nokia",
+                "phones",
+                "mobiles",
+                "Midnight Blue"
+            ],
+            "category":"Phones",
+            "subcategory":"Nokia"
+        }
+    },
+    {
+        "type":"add",
+        "id":9,
+        "fields":{
+            "name":"Motorola X Force XT1580 (Black 32GB)",
+            "points":[
+                "6 GB RAM | 128 GB ROM | 15.21 cm (5.99 inch) QHD+ Display" , "5 x 12MP | 20MP Front Camera" , "3320 mAh Battery" , "Qualcomm Snapdragon 845 Processor" , "Brand Warranty of 1 Year Available for Mobile and 6 Months for Accessories"
+            ],
+            "description":"Be it colourful photos or classic black-and-white pictures, you can click them all with this stunning smartphone from Nokia. Featuring five 12-megapixel cameras on its back and a 20-megapixel front camera, this handset gives smartphone photography a whole new meaning. And, to make things even better, this smartphone also boasts the Pro Camera UI that lets you make adjustments to different camera settings, such as ISO and white balance, to help your pictures shine like they’re meant to be.",
+            "price":269.41,
+            "notes":"Get 10% cashback up to Rs. 100 using Visa Signature or Visa Infinite cards. Shop during the Visa Shopping Days starting 20th to end of every month. Cashback within 3 days.",
+            "currency":"£",
+            "images":[
+                "/images/products/29/9-moto-1.jpg",
+                "/images/products/29/9-moto-2.jpg",
+                "/images/products/29/9-moto-1.jpg",
+                "/images/products/29/9-moto-2.jpg",
+                "/images/products/29/9-moto-1.jpg"
+            ],
+            "rating":4.5,
+            "offer":0.00,
+            "details":[
+                "RAM: 6 GB"  ,  " Item Weight: 399 g"  ,  " Package Dimensions: 15 x 15 x 5 cm"  ,  " Batteries: 1 Lithium ion batteries required. (included)"  ,  " Special features: Front Camera, Rear Camera"  ,  " Colour: Midnight Blue"
+                ,"Weight: 249 Grams"
+            ],
+            "tags":[
+                "Motorola",
+                "phones",
+                "mobiles",
+                "XT1580"
+            ],
+            "category":"Phones",
+            "subcategory":"Motorola"
+        }
+    },
+    {
+        "type":"add",
+        "id":10,
+        "fields":{
+            "name":"Redmi K20 (Glacier Blue, 6GB RAM, 64GB Storage)",
+            "points":[
+                "48+13+8MP triple rear camera with IMX582, 1/2.0 inch, 1.6 micormeter, 6P, f1.75, FOV79, AF, OL, 13MP (S5K3L6 1/3 inch, 1.12 micrometer, 5P, f2.4, FOV124.8, FF), 8MP (OV8856 1/4 inch, 1.12 micrometer, 5P, f2.4, FOV44.5, AF, OL, PDAF), slow motion support - 960 fps | 20MP front facing popup camera with R/B LED-aperture-f2.2, pixel size - 0.8 micrometer"  ,  " 16.23 centimeters (6.39-inch) FHD+ AMOLED multi-touch capacitive touchscreen with 2340 x 1080 pixels resolution, 403 ppi pixel density"  ,  " Memory, Storage & SIM: 6GB RAM | 64GB internal memory | Dual SIM (nano+nano) dual-standby (4G+4G)"  ,  " Android Pie v9.0 operating system with 2x2.2GHz Kryo 470 + 6x1.8GHz Kryo 470 Qualcomm Snapdragon 730 octa core processor, Adreno 618"  ,  " 4000mAH lithium-polymer battery"  ,  " 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"  ,  " Box also includes: Power adapter, simple protective cover, USB type-c cable, SIM eject tool, user guide and warranty card"
+            ],
+            "description":"The K20 opens up new possibilities. The 48 MP AI Triple camera setup lets you see things from a different perspective altogether. Be it ultra-wides or telephoto shots, the K20 produces flawless images. Powered by the Qualcomm Snapdragon 730 and a 4000 mAh battery, this device finds a perfect balance between performance and power efficiency. The Aura Prime design gives the device a unique look while the Corning Gorilla Glass 5 on the front and back enhances the overall user experience.",
+            "price":269.41,
+            "notes":"",
+            "currency":"£",
+            "images":[
+                "/images/products/30/10-redmi-2.jpg",
+                "/images/products/30/10-redmi-1.jpg",
+                "/images/products/30/10-redmi-2.jpg",
+                "/images/products/30/10-redmi-1.jpg",
+                "/images/products/30/10-redmi-2.jpg"
+            ],
+            "rating":4.5,
+            "offer":0.00,
+            "details":[
+                "RAM: 6 GB"  ,  " Item Weight: 399 g"  ,  " Package Dimensions: 15 x 15 x 5 cm"  ,  " Batteries: 1 Lithium ion batteries required. (included)"  ,  " Special features: Front Camera, Rear Camera"  ,  " Colour: Midnight Blue"
+                ,"Weight: 249 Grams"
+            ],
+            "tags":[
+                "Redmi",
+                "phones",
+                "mobiles",
+                "K20"
+            ],
+            "category":"Phones",
+            "subcategory":"Redmi"
         }
     }
 ]
