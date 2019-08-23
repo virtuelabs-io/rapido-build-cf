@@ -29,5 +29,10 @@
         "Master Beds",
         "Sofa Sets",
         "Living Room"
+    ],
+    "Clothing": [
+        "Topwear",
+        "Bottomwear",
+        "Footwear"
     ]
 }
