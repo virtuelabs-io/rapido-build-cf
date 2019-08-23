@@ -26,8 +26,10 @@
     ],
     "Furnitures": [
         "Wadrobes",
-        "Master Beds",
-        "Sofa Sets",
-        "Living Room"
+        "Master Beds"
+    ],
+    "Home Interiors": [
+        "Sofa Set",
+        "Bed Lamps"
     ]
 }
