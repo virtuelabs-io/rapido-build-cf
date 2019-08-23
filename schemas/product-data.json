@@ -1031,7 +1031,9 @@
             "tags":[
                 "Head Phones",
                 "Boat",
-                "headset"
+                "headset",
+                "earphone",
+                "ear phone"
             ],
             "notes":"",
             "offer":0.6,
@@ -1054,6 +1056,111 @@
             ],
             "price":790.00,
             "description":"The Boat bass heads really live up to their name by providing amazing Bass for music lovers."
+        }
+    },
+    {
+        "type":"add",
+        "id":23,
+        "fields":{
+            "category":"Computers",
+            "rating":5,
+            "subcategory":"Head Phones",
+            "tags":[
+                "Head Phones",
+                "JBL",
+                "headset",
+                "BassHeads",
+                "earphone",
+                "ear phone"
+            ],
+            "notes":"",
+            "offer":0.7,
+            "name":"JBL C100SI In-Ear Headphones with Mic (Black)",
+            "currency":"£",
+            "points":[
+                "JBL Signature Sound"  ,  " Extra Deep Bass"  ,  " One-Button Universal Remote with Mic"  ,  " Quick Launch Access to Google Assistant / Siri"  ,  " Noise Cancelling Microphone"  ,  " Sleek, Glossy & Ergonomic design"  ,  " Lightweight and Comfortable with 3 sizes of ear tips"
+            ],
+            "details":[
+                "Brand : JBL" , "Model : BH900" , "Model Name : Bass Heads 900" , "Item Weight : 150 g" , "Product Dimensions : 15.5 x 18.5 x 7 cm" , "Batteries: : 1 Lithium ion batteries required." , "Item model number : BH900" , "Compatible Devices : All Bluetooth Devices" , "Additional Features : SUPER EXTRAAAA BASS, FEATHER LIGHT, SNUG FIT, COMPACT AND FOLDABLE" , "Included Components : Headphones" , "Number Of Items : 1" , "Microphone Form Factor : With Microphone" , "Headphones Form Factor : On Ear" , "Batteries Included : No" , "Batteries Required : No" , "Battery Cell Composition : Lithium Ion" , "Connector Type : Wired"
+            ],
+            "images":[
+                "/images/products/23/23-jbl-1.jpg",
+                "/images/products/23/23-jbl-2.jpg",
+                "/images/products/23/23-jbl-1.jpg",
+                "/images/products/23/23-jbl-2.jpg"
+            ],
+            "price":890.00,
+            "description":"The new JBL C100SI is a dynamic, ultra-lightweight in-ear headphone. Its powerful 9mm drivers deliver the feel-it-in-your-bones bass response and legendary sound quality you expect from JBL. They’re feather-light for all-day comfort. An in-line microphone with universal remote control lets you talk and manage your calls on Android and iOS devices."
+        }
+    },
+    {
+        "type":"add",
+        "id":24,
+        "fields":{
+            "category":"Computers",
+            "rating":5,
+            "subcategory":"Head Phones",
+            "tags":[
+                "Head Phones",
+                "SONY",
+                "headset",
+                "BassHeads",
+                "earphone",
+                "ear phone"
+            ],
+            "notes":"",
+            "offer":0.7,
+            "name":"Sony MDR-EX150AP In-Ear Headphones with Mic (Black)",
+            "currency":"£",
+            "points":[
+                "In-line mic for hands-free calling"  ,  " 9mm neodymium drivers for powerful, balanced sound"  ,  " Lightweight for ultimate music mobility"  ,  " Comfortable, secure-fitting silicone earbuds for long listening hours"  ,  " Match your style with vivid colors"  ,  " Shiny metallic finish housing"  ,  " Frequency Range: 5Hz to 24kHz. 1 year manufacturer warranty" 
+            ],
+            "details":[
+                "Brand : SONY" , "Model : BH900" , "Model Name : Bass Heads 900" , "Item Weight : 150 g" , "Product Dimensions : 15.5 x 18.5 x 7 cm" , "Batteries: : 1 Lithium ion batteries required." , "Item model number : BH900" , "Compatible Devices : All Bluetooth Devices" , "Additional Features : SUPER EXTRAAAA BASS, FEATHER LIGHT, SNUG FIT, COMPACT AND FOLDABLE" , "Included Components : Headphones" , "Number Of Items : 1" , "Microphone Form Factor : With Microphone" , "Headphones Form Factor : On Ear" , "Batteries Included : No" , "Batteries Required : No" , "Battery Cell Composition : Lithium Ion" , "Connector Type : Wired"
+            ],
+            "images":[
+                "/images/products/24/24-sony-1.jpg",
+                "/images/products/24/24-sony-2.jpg",
+                "/images/products/24/24-sony-1.jpg",
+                "/images/products/24/24-sony-2.jpg"
+            ],
+            "price":890.00,
+            "description":"These in-ear headphones are made for those who live their lives on the go. The handy inline microphone lets you take calls with maximum ease, so your smartphone can remain safely stowed in your pocket or bag. Once the call is over, you’ll be able to use the inline remote to jump right back into your favorite tracks."
+        }
+    },
+    {
+        "type":"add",
+        "id":25,
+        "fields":{
+            "category":"Computers",
+            "rating":5,
+            "subcategory":"Head Phones",
+            "tags":[
+                "Head Phones",
+                "Panasonic",
+                "headset",
+                "BassHeads",
+                "earphone",
+                "ear phone"
+            ],
+            "notes":"",
+            "offer":0.7,
+            "name":"Panasonic On Ear Stereo Headphones RP-HF100ME-K with Integrated Mic and Controller, Travel-Fold Design, Matte Finish, Black",
+            "currency":"£",
+            "points":[
+                "Clear, powerful, balanced bass and treble (10Hz-23kHz) with dual 30mm neodymium drivers..  Connectivity Technology: Wired"  ,  " Lightweight, mobile headphone design for enjoying music outdoors and in"  ,  " Two easy-fold methods for ultra-compact fit in bags, purses and packs"  ,  " Soft, high-comfort earpads, smart inline control and mic for music and phone"  ,  " Sleek, elegant style, a choice of four distinctive finishes - black, white, blue or pink"
+            ],
+            "details":[
+                "Brand : Panasonic"  ,  " Model : RP-HF100ME-K"  ,  " Model Name : RP-HF100ME-K"  ,  " Model Year : 2016"  ,  " Item Weight : 113 g"  ,  " Product Dimensions : 7 x 16 x 17.5 cm"  ,  " Item model number : RP-HF100ME-K"  ,  " Additional Features : on-ear"  ,  " Included Components : Headphones with Mic, User manual and Earbuds"  ,  " Number Of Items : 1"  ,  " Microphone Form Factor : Built-In"  ,  " Headphones Form Factor : Over Ear"  ,  " Batteries Included : No"  ,  " Batteries Required : No"  ,  " Includes Rechargable Battery : No"  ,  " Has Self Timer : No"
+            ],
+            "images":[
+                "/images/products/25/25-panasonic-1.jpg",
+                "/images/products/25/25-panasonic-2.jpg",
+                "/images/products/25/25-panasonic-1.jpg",
+                "/images/products/25/25-panasonic-2.jpg"
+            ],
+            "price":890.00,
+            "description":"These in-ear headphones are made for those who live their lives on the go. The handy inline microphone lets you take calls with maximum ease, so your smartphone can remain safely stowed in your pocket or bag. Once the call is over, you’ll be able to use the inline remote to jump right back into your favorite tracks."
         }
     }
 ]
