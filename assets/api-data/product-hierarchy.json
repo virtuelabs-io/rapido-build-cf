@@ -13,7 +13,7 @@
         "Samsung",
         "Nokia",
         "Motorola",
-        "Redme",
+        "Redmi",
         "1+"
     ],
     "Computers": [
@@ -26,6 +26,12 @@
     ],
     "Furnitures": [
         "Wadrobes",
+        "Master Beds",
+        "Sofa Sets",
+        "Living Room"
+    ],
+    "Clothes": [
+        "Shirts"
         "Master Beds"
     ],
     "Home Interiors": [
