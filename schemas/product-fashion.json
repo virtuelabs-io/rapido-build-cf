@@ -374,5 +374,184 @@
             "category": "Fashion",
             "subcategory": "Bags"
         }
+    },
+    {
+        "type": "add",
+        "id": 81,
+        "fields": {
+            "name": "Ettinger Leather Billfold Wallet 6 Credit Cards - Black/Red",
+            "points": [
+                "Billfold Wallet",
+                "Colour: Black/Red",
+                "Material: Leather"
+            ],
+            "description": "Make a style statement this season with this beautiful Billfold Wallet.",
+            "price": 1370.00,
+            "notes": "",
+            "currency": "£",
+            "images": [
+                "/images/products/81/81-Ettinger-Wallet-full.jpg",
+                "/images/products/81/81-Ettinger-Wallet-top.jpg",
+                "/images/products/81/81-Ettinger-Wallet-side.jpg",
+                "/images/products/81/81-Ettinger-Wallet-front.jpg"
+            ],
+            "rating": 5.0,
+            "offer": 0.2,
+            "details": [
+                "ASIN: B01JIWHW2E"
+            ],
+            "tags": [
+                "Wallet", 
+                "Ettinger",
+                "Leather"
+            ],
+            "category": "Fashion",
+            "subcategory": "Wallet"
+        }
+    },
+    {
+        "type": "add",
+        "id": 82,
+        "fields": {
+            "name": "Paul Smith Men's Sky Blue/Turquoise Leather Billfold Wallet with Signature Multi Stripes Interior Apxa-4832-W761",
+            "points": [
+                "Paul Smith Wallet",
+                "Colour: Blue",
+                "Material: Leather"
+            ],
+            "description": "Make a style statement this season with this beautiful Billfold Wallet.",
+            "price": 500.00,
+            "notes": "",
+            "currency": "£",
+            "images": [
+                "/images/products/82/82-Turquoise-Wallet-full.jpg",
+                "/images/products/82/82-Turquoise-Wallet-top.jpg",
+                "/images/products/82/82-Turquoise-Wallet-side.jpg",
+                "/images/products/82/82-Turquoise-Wallet-front.jpg"
+            ],
+            "rating": 3.0,
+            "offer": 0.1,
+            "details": [
+                "Product Dimensions: 10.7 x 1 x 9.4 cm ; 68 g",
+                "Item model number: APXA-4832-W761",
+                "ASIN: B075C2TZBM"
+            ],
+            "tags": [
+                "Wallet", 
+                "Paul Smith",
+                "Leather"
+            ],
+            "category": "Fashion",
+            "subcategory": "Wallet"
+        }
+    },
+    {
+        "type": "add",
+        "id": 83,
+        "fields": {
+            "name": "TUMI Men's Global Removable Passcase ID Wallet, black, one size",
+            "points": [
+                "TUMI Men's Wallet",
+                "Colour: Black/ Brown"
+            ],
+            "description": "Make a style statement this season with this beautiful UMI Men's Wallet.",
+            "price": 999.00,
+            "notes": "",
+            "currency": "£",
+            "images": [
+                "/images/products/83/83-TUMI-Wallet-full.jpg",
+                "/images/products/83/83-TUMI-Wallet-top.jpg",
+                "/images/products/83/83-TUMI-Wallet-side.jpg",
+                "/images/products/83/83-TUMI-Wallet-front.jpg"
+            ],
+            "rating": 5.0,
+            "offer": 0.2,
+            "details": [
+                "Model Number: 112633",
+                "Material: leather"
+            ],
+            "tags": [
+                "Wallet", 
+                "Tumi",
+                "Leather"
+            ],
+            "category": "Fashion",
+            "subcategory": "Wallet"
+        }
+    },
+    {
+        "type": "add",
+        "id": 84,
+        "fields": {
+            "name": "Paul Smith Men's Hand Burnished Leather Bifold Wallet - Red",
+            "points": [
+                "Paul Smith Wallet",
+                "Colour: Blue",
+                "Material: Leather"
+            ],
+            "description": "Make a style statement this season with this beautiful Paul Smith Men's Wallet.",
+            "price": 2199.00,
+            "notes": "",
+            "currency": "£",
+            "images": [
+                "/images/products/84/84-Paul-Smith-Wallet-full.jpg",
+                "/images/products/84/84-Paul-Smith-Wallet-top.jpg",
+                "/images/products/84/84-Paul-Smith-Wallet-side.jpg",
+                "/images/products/84/84-Paul-Smith-Wallet-front.jpg"
+            ],
+            "rating": 5.0,
+            "offer": 0.3,
+            "details": [
+                "Product Dimensions: 10.5 x 9.5 x 1 cm ; 49.9 g",
+                "Item model number: AHXA-1032-W275-PL",
+                "ASIN: B015AYU7XU"
+            ],
+            "tags": [
+                "Wallet", 
+                "Paul Smith",
+                "Leather"
+            ],
+            "category": "Fashion",
+            "subcategory": "Wallet"
+        }
+    },
+    {
+        "type": "add",
+        "id": 85,
+        "fields": {
+            "name": "GETOREE Florence Leather Blue Men's Wallet",
+            "points": [
+                "CONTEMPORARY AND DURABLE – A man’s wallet should be contemporary , robust and durable. This wallet offers elite features with uncompromising style. The inside of the wallet is as important as the outside, hence we use top quality polyester fabric for the lining which is both soft to touch and extremely durable. It is a perfect gifting solution for men of all age groups.",
+                "COMPACT YET SPACIOUS – Unique design and compact size, this wallet is not at all bulky. The size is just perfect to fit in your pocket with ease or to be kept in your travel bag. It is a perfect combination of size and space with numerous compartments for all your cards , bills, receipts and also a photo of your loved one.",
+                "Has 3 in build Credit card slots With Great Transparent I.D window for Driving License or Office I.D card,1 Coin Pocket , 1 Secret Compartment and 2 Currency compartment carrying all your needs with extra comfort while carrying. We have designedthis wallet, for daily comfortable use.",
+                "GIFT FOR MEN – This Classic Wallet comes in a perfect Box. It’s the perfect gift for men of all age groups on all occasions like, Diwali gifts , Eid Gifts , New Year gifts , Christmas Gifts , Birthday gifts , Anniversary Gifts , Marriage gifts etc.",
+                "SECURING YOUR VALUABLE DATA: Our wallets are equipped with advanced RFID SECURE Technology, a unique metal composite, engineered specifically to block 13.5 MHz or higher RFID signals and protect the valuable information stored on RFID chips from unauthorized scans."
+            ],
+            "description": "Make a style statement this season with this beautiful Paul Smith Men's Wallet.",
+            "price": 3000.00,
+            "notes": "",
+            "currency": "£",
+            "images": [
+                "/images/products/85/85-GETOREE-Wallet-full.jpg",
+                "/images/products/85/85-GETOREE-Wallet-top.jpg",
+                "/images/products/85/85-GETOREE-Wallet-side.jpg",
+                "/images/products/85/85-GETOREE-Wallet-front.jpg"
+            ],
+            "rating": 5.0,
+            "offer": 0.3,
+            "details": [
+                "Item Height: 9 Centimeters",
+                "Item Length: 11.5 Centimeters",
+                "Item Width: 25 Millimeters",
+                "Material: Leather"
+            ],
+            "tags": [
+                "Wallet", 
+                "Getoree",
+                "Leather"
+            ],
+            "category": "Fashion",
+            "subcategory": "Wallet"
+        }
     }
 ]
