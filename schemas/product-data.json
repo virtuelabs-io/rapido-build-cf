@@ -418,7 +418,7 @@
     {
         "type":"add",
         "id":11,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":2.0,
             "subcategory":"Laptops",
@@ -492,7 +492,7 @@
     {
         "type":"add",
         "id":12,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":4,
             "subcategory":"Laptops",
@@ -566,7 +566,7 @@
     {
         "type":"add",
         "id":13,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":4,
             "subcategory":"Laptops",
@@ -640,7 +640,7 @@
     {
         "type":"add",
         "id":14,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":5,
             "subcategory":"Laptops",
@@ -714,7 +714,7 @@
     {
         "type":"add",
         "id":15,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers & Accessories",
             "rating":5,
             "subcategory":"Laptops",
@@ -788,7 +788,7 @@
     {
         "type":"add",
         "id":16,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":3,
             "subcategory":"Desktops",
@@ -828,7 +828,7 @@
     {
         "type":"add",
         "id":17,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":3,
             "subcategory":"Desktops",
@@ -869,7 +869,7 @@
     {
         "type":"add",
         "id":18,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":3,
             "subcategory":"Desktops",
@@ -913,7 +913,7 @@
     {
         "type":"add",
         "id":19,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":3,
             "subcategory":"Desktops",
@@ -958,7 +958,7 @@
     {
         "type":"add",
         "id":20,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":3,
             "subcategory":"Desktops",
@@ -999,7 +999,7 @@
     {
         "type":"add",
         "id":21,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":3,
             "subcategory":"Head Phones",
@@ -1040,7 +1040,7 @@
     {
         "type":"add",
         "id":22,
-        "type":"add","fields":{
+        "fields":{
             "category":"Computers",
             "rating":3,
             "subcategory":"Head Phones",
