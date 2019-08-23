@@ -30,9 +30,7 @@
         "Sofa Sets",
         "Living Room"
     ],
-    "Clothing": [
-        "Topwear",
-        "Bottomwear",
-        "Footwear"
+    "Clothes": [
+        "Shirts"
     ]
 }
