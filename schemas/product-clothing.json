@@ -12,10 +12,10 @@
             "notes": "",
             "currency": "£",
             "images": [
-                "/images/products/31/shirt1.jpg",
-                "/images/products/31/shirt2.jpg",
-                "/images/products/31/shirt1.jpg",
-                "/images/products/31/shirt2.jpg"
+                "/images/products/31/31-shirt1.jpg",
+                "/images/products/31/31-shirt2.jpg",
+                "/images/products/31/34-shirt1.jpg",
+                "/images/products/31/35-shirt2.jpg"
             ],
             "rating": 3.5,
             "offer": 0.2,
@@ -46,10 +46,10 @@
             "notes": "",
             "currency": "£",
             "images": [
-                "/images/products/31/shirt1.jpg",
-                "/images/products/31/shirt2.jpg",
-                "/images/products/32/shirt1.jpg",
-                "/images/products/32/shirt2.jpg"
+                "/images/products/31/31-shirt1.jpg",
+                "/images/products/31/31-shirt2.jpg",
+                "/images/products/32/32-shirt1.jpg",
+                "/images/products/32/32-shirt2.jpg"
             ],
             "rating": 3.5,
             "offer": 0.2,
@@ -81,10 +81,10 @@
             "notes": "",
             "currency": "£",
             "images": [
-                "/images/products/33/shirt1.jpg",
-                "/images/products/33/shirt2.jpg",
-                "/images/products/33/shirt1.jpg",
-                "/images/products/33/shirt2.jpg"
+                "/images/products/33/33-shirt1.jpg",
+                "/images/products/33/33-shirt2.jpg",
+                "/images/products/33/33-shirt1.jpg",
+                "/images/products/33/33-shirt2.jpg"
             ],
             "rating": 3.5,
             "offer": 0.2,
@@ -114,10 +114,10 @@
             "notes": "",
             "currency": "£",
             "images": [
-                "/images/products/34/shirt1.jpg",
-                "/images/products/34/shirt2.jpg",
-                "/images/products/33/shirt1.jpg",
-                "/images/products/33/shirt2.jpg"
+                "/images/products/34/34-shirt1.jpg",
+                "/images/products/34/34-shirt2.jpg",
+                "/images/products/33/33-shirt1.jpg",
+                "/images/products/33/33-shirt2.jpg"
             ],
             "rating": 4.5,
             "offer": 0.8,
@@ -146,11 +146,11 @@
             "notes": "",
             "currency": "£",
             "images": [
-                "/images/products/35/shirt1.jpg",
-                "/images/products/35/shirt2.jpg",
-                "/images/products/31/shirt2.jpg",
-                "/images/products/32/shirt2.jpg",
-                "/images/products/33/shirt2.jpg"
+                "/images/products/35/35-shirt1.jpg",
+                "/images/products/35/35-shirt2.jpg",
+                "/images/products/31/35-shirt1.jpg",
+                "/images/products/32/35-shirt2.jpg",
+                "/images/products/33/35-shirt1.jpg"
             ],
             "rating": 4.5,
             "offer": 0.8,
