@@ -21,3 +21,4 @@ Resources:
                 SAML:aud: "https://signin.aws.amazon.com/saml"
       ManagedPolicyArns:
         - "arn:aws:iam::aws:policy/AdministratorAccess"
+        - "arn:aws:iam::aws:policy/job-function/Billing"
