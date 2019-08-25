@@ -22,3 +22,4 @@ Resources:
       ManagedPolicyArns:
         - "arn:aws:iam::aws:policy/AdministratorAccess"
         - "arn:aws:iam::aws:policy/job-function/Billing"
+        - "arn:aws:iam::aws:policy/job-function/SupportUser"

@@ -1,0 +1,38 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "AWS Lead Developer Role for Virtuelabs.io"
+Resources:
+  SSOAdminRole:
+    Type: "AWS::IAM::Role"
+    DeletionPolicy: "Delete"
+    Properties:
+      RoleName: "VirtueLabs_Lead_Developer"
+      Path: "/"
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Federated:
+                - !Sub "arn:aws:iam::${AWS::AccountId}:saml-provider/GoogleApps"
+            Action:
+              - "sts:AssumeRoleWithSAML"
+            Condition:
+              StringEquals:
+                SAML:aud: "https://signin.aws.amazon.com/saml"
+      ManagedPolicyArns:
+        - "arn:aws:iam::aws:policy/job-function/SupportUser"
+        - "arn:aws:iam::aws:policy/job-function/Billing"
+        - "arn:aws:iam::aws:policy/AmazonCognitoDeveloperAuthenticatedIdentities"
+        - "arn:aws:iam::aws:policy/AmazonCognitoReadOnly"
+        - "arn:aws:iam::aws:policy/AmazonCognitoPowerUser"
+        - "arn:aws:iam::aws:policy/AmazonESCognitoAccess"
+        - "arn:aws:iam::aws:policy/AWSSupportAccess"
+      Policies:
+        - PolicyName: "rapido-build-star-access"
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Effect: "Allow"
+                Action: "s3:*"
+                Resource: "arn:aws:s3:::rapido-build-*-bucket/*"
+
