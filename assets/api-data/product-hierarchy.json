@@ -41,5 +41,10 @@
         "Sunglasses",
         "Bags",
         "Wallet"
+    ],
+    "Build Materials": [
+        "Blocks/Bricks",
+        "Timber",
+        "Plumbing"
     ]
 }
