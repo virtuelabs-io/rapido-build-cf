@@ -41,5 +41,15 @@
         "Sunglasses",
         "Bags",
         "Wallet"
+    ],
+    "Materials": [
+        "Blocks/Bricks",
+        "Timber",
+        "Plumbing",
+        "Paint",
+        "Laminate Flooring",
+        "Aluminium Tape",
+        "Lintels",
+        "Plumbing"
     ]
 }
