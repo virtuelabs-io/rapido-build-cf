@@ -45,6 +45,8 @@
     "Build Materials": [
         "Blocks/Bricks",
         "Timber",
-        "Plumbing"
+        "Plumbing",
+        "Paint",
+        "Laminate Flooring"
     ]
 }
