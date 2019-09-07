@@ -496,7 +496,7 @@
             "Point loads: compound trusses, steel beams, etc"
          ],
          "description":"Available in sizes from 65x100mm up to 215x140mm, our standard prestressed concrete lintels are the most cost-effective option for use with load bearing walls.",
-         "price":37.71,
+         "price":21.71,
          "notes":"",
          "currency":"£",
          "images":[
@@ -525,6 +525,139 @@
          ],
          "category":"Build Materials",
          "subcategory":"Lintels"
+      }
+   },
+   {
+      "type":"add",
+      "id":48,
+      "fields":{
+         "name":"Annular Ringshank",
+         "points":[
+            "Corrosion resistant finish",
+            "Ideal for securing roofing felt and other roofing materials",
+            "The large head distributes the load directly underneath the top of the nail, resulting in a firm and more secure hold",
+            "Available in a range of lengths and sizes, and in various finishes to suit a full range of applications"
+         ],
+         "description":"A short shanked nail with a large flat head, they are available in a wide range of sizes and finishes to suit a many types of applications",
+         "price":17.71,
+         "notes":"",
+         "currency":"£",
+         "images":[
+            "/images/products/48/48-1.jpg",
+            "/images/products/48/48-2.jpg",
+            "/images/products/48/48-3.jpg",
+            "/images/products/48/48-2.jpg"
+         ],
+         "rating":4.2,
+         "offer":0.3,
+         "details":[
+            "Size : 40mm Annular Ring Shank Nail",
+            "Weight : 0.5 kg Pack"
+         ],
+         "tags":[
+            "Screws",
+            "Build materials",
+            "Construction",
+            "Nails",
+            "Screws/Nails"
+         ],
+         "category":"Build Materials",
+         "subcategory":"Screws/Nails"
+      }
+   },
+   {
+      "type":"add",
+      "id":49,
+      "fields":{
+         "name":"Dry Wall screws",
+         "points":[
+            "Suitable for all drywall applications",
+            "Driver bit included",
+            "Corrosion resistant",
+            "Conforms to EN 14566",
+            "1000 per pack"
+         ],
+         "description":"This bright zinc plated drywall screw from Tradeline is designed for fixing plasterboard. This self tapping screw is fully threaded with a sharp point for convenient installation.",
+         "price":25.71,
+         "notes":"",
+         "currency":"£",
+         "images":[
+            "/images/products/49/49-1.jpg",
+            "/images/products/48/49-2.jpg",
+            "/images/products/48/49-3.jpg",
+            "/images/products/48/49-4.jpg"
+         ],
+         "rating":4.2,
+         "offer":0.3,
+         "details":[
+            "Length : 50 mm",
+            "Head Type : Fine Thread Cross Head",
+            "Drive Type : Self Driving/Tapping",
+            "Material : Galvanised Steel",
+            "Finish : Silver",
+            "Application : General construction application",
+            "Interior or Exterior Use : Both",
+            "Type : Drywall Screw",
+            "Pack Quantity : 1000",
+            "Brand Name : TRADELINE",
+            "Range Description : SCREWS"
+         ],
+         "tags":[
+            "Screws",
+            "Build materials",
+            "Construction",
+            "Nails",
+            "Screws/Nails",
+            "Dry Wall",
+            "Wall Screws"
+         ],
+         "category":"Build Materials",
+         "subcategory":"Screws/Nails"
+      }
+   },
+   {
+      "type":"add",
+      "id":50,
+      "fields":{
+         "name":"Clear Glue - All Purpose Glue",
+         "points":[
+            "Bonds stone, metal, ceramic, glass, wood, foam, brick, concrete and more!",
+            "High strength and versatility. Ideal for most household fixes and building repairs, indoor or outdoor.",
+            "100% Waterproof",
+            "No foam - easy to use.",
+            "Dries Clear"
+         ],
+         "description":"It is the king of the adhesive jungle, the strongest, most powerful household glue on the market. The strong, expanding formula of Gorilla glue handles the toughest jobs in and around the home, bonding all types of woods such as hardwood, softwood and wood composites in 24 hours.",
+         "price":25.71,
+         "notes":"",
+         "currency":"£",
+         "images":[
+            "/images/products/50/50-1.jpg",
+            "/images/products/50/50-2.jpg",
+            "/images/products/50/50-3.jpg",
+            "/images/products/50/50-4.jpg"
+         ],
+         "rating":4.2,
+         "offer":0.3,
+         "details":[
+            "Brand : ELMER'S",
+            "Model Number : E1322",
+            "Colour : White",
+            "Number of Items : 1",
+            "Size : 4 oz. Bottle",
+            "Manufacturer Part Number : 69873"
+         ],
+         "tags":[
+            "Screws",
+            "Build materials",
+            "Construction",
+            "Nails",
+            "Screws/Nails",
+            "Clear Glue",
+            "Glue"
+         ],
+         "category":"Build Materials",
+         "subcategory":"Screws/Nails"
       }
    }
 ]
