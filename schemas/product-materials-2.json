@@ -217,7 +217,7 @@
       "type":"add",
       "id":41,
       "fields":{
-         "name":"Garden Sleepers New Natural Treated 8FT 100mm x 200mm",
+         "name":"Garden Sleepers New Natural Treated",
          "points":[
             "Heelguard grates as standard",
             "Recycled and recyclable base material ",
@@ -236,7 +236,15 @@
          "rating":3.2,
          "offer":0.2,
          "details":[
-
+            "Length : 2400 mm",
+            "Thickness : 100 mm",
+            "Width : 200 mm",
+            "Material : Softwood",
+            "Treatment : Pressure Treated",
+            "Years Guaranteed : 15",
+            "Type : Garden Sleeper",
+            "Made To Order : N",
+            "Brand Name : TP"
          ],
          "tags":[
             "Blocks/Bricks",
@@ -253,7 +261,7 @@
       "type":"add",
       "id":42,
       "fields":{
-         "name":"Keylite WCP-02 550x980mm Centre Pivot Roof Window In White",
+         "name":"Pivot Roof Window In White",
          "points":[
             "Window rotates through 180° and can be locked in position for easy cleaning from the inside",
             "4mm Toughened on Outer Pane",
@@ -276,7 +284,15 @@
          "rating":3.2,
          "offer":0.2,
          "details":[
-
+            "Height : 1400 mm",
+            "Width : 780 mm",
+            "Dimensions : 780 mm x 1400 mm",
+            "Window Type : White Painted Centre Pivot",
+            "Power Source : Manual",
+            "Colour : White Blackout",
+            "Years Guaranteed : 10",
+            "Manufacturer Model No : GGL MK08 SD0W11105",
+            "Brand Name : VELUX"
          ],
          "tags":[
             "Blocks/Bricks",
@@ -293,13 +309,13 @@
       "type":"add",
       "id":43,
       "fields":{
-         "name":"Concrete Padstone 440x215x215mm",
+         "name":"Concrete Padstone",
          "points":[
             "Padstones can be used in orientation",
             "developed to ensure optimal performance. ",
             "Designed and manufactured in accordance with BS 8110"
          ],
-         "description":"Concrete Padstone 440x215x215mm",
+         "description":"Padstones can be used in orientation, developed to ensure optimal performance. Designed and manufactured in accordance with BS 8110",
          "price":31.67,
          "notes":"",
          "currency":"£",
@@ -312,7 +328,14 @@
          "rating":3.2,
          "offer":0.2,
          "details":[
-
+            "Depth : 140 mm",
+            "Height : 440 mm",
+            "Length : 102 mm",
+            "Weight : 15 kg",
+            "Material : Concrete",
+            "Colour : Grey",
+            "Manufacturer Model No : PAD03",
+            "Brand Name : Supreme Concrete"
          ],
          "tags":[
             "Blocks/Bricks",
@@ -329,9 +352,10 @@
       "type":"add",
       "id":44,
       "fields":{
-         "name":"25mmx50mm Blue Premium Treated Tile Batten (48m Bundle)",
+         "name":"Blue Premium Treated Tile Batten (48m Bundle)",
          "points":[
             "Sold in bundles of 48m (10 lengths)",
+            "These rotting batten packs are for fixing Roof Tiles, Slates, and sheets, Batten colour may vary.",
             "Treated blue timber tile batten 25x50mm x 4.8m lengths",
             "For use as part of a timber roof structure to support concrete, clay, fibre-cement, natural slate or metal roofing tiles and/or bitumen or wooden shingles in accordance with BS 5534 : 2003 + A1 : 2010."
          ],
@@ -348,7 +372,15 @@
          "rating":4.2,
          "offer":0.3,
          "details":[
-
+            "Thickness : 25 mm",
+            "Width : 38 mm",
+            "Treatment : Timber Treatment Use Class 2",
+            "Material : Redwood or Whitewood",
+            "Grade : BS5534",
+            "Certifications Met : Available Certified",
+            "Type : C16",
+            "Country Origin : Sweden",
+            "Brand Name : John Brash"
          ],
          "tags":[
             "Blocks/Bricks",
@@ -358,14 +390,14 @@
             "Timber"
          ],
          "category":"Build Materials",
-         "subcategory":"Blocks/Bricks"
+         "subcategory":"Timber"
       }
    },
    {
       "type":"add",
       "id":45,
       "fields":{
-         "name":"100mm x 200mm x 2400mm Hardwood Oak Garden Sleepers",
+         "name":"Hardwood Oak Garden Sleepers",
          "points":[
             "Our standard grade sleepers are predominantly produced using Quercus Cerris.",
             "Ideal for raised beds and garden landscaping",
@@ -384,14 +416,20 @@
          "rating":4.2,
          "offer":0.3,
          "details":[
-
+            "Size: 100mm x 200mm x 2400mm",
+            "Grade:  New oak railway sleepers are classified as landscaping grade, as opposed to furniture or beam grade",
+            "Colour: Ranging from yellowy gold to silver grey",
+            "Weight: Can be heavy to lift, especially the 2.6m x 250mm x 150mm size new oak railway sleepers which can weigh as much as 100 kilos",
+            "Cutting: Fairly tough",
+            "Attaching / Fixing: Timberlok will probably not screw through these railway sleepers without a pilot hole, even if the drill is powerful, so it makes sense to pre-drill. These oak railway sleepers are fairly tough"
          ],
          "tags":[
             "Blocks/Bricks",
             "Build materials",
             "Construction",
             "Sleepers",
-            "Hardwood Oak Garden Sleepers"
+            "Hardwood Oak Garden Sleepers",
+            "Timber"
          ],
          "category":"Build Materials",
          "subcategory":"Blocks/Bricks"
@@ -401,7 +439,7 @@
       "type":"add",
       "id":46,
       "fields":{
-         "name":"Cavity Wall 50-65mm",
+         "name":"Cavity Wall",
          "points":[
             "High Quality, dependable customer service",
             "Quick Delivery (Free for orders over £45)",
@@ -420,7 +458,20 @@
          "rating":4.2,
          "offer":0.3,
          "details":[
-
+            "Height : 140 mm",
+            "Width : 263 mm",
+            "Cavity Size : 70 - 85 mm",
+            "Outer Leaf : 95 - 105 mm",
+            "Inner Leaf : 100 - 115 mm",
+            "Weight : 8 kg",
+            "Material : Formed using galvanised steel, then powder coated",
+            "Safe Working Load : 15 (kN)",
+            "Colour : Black",
+            "Type : Open Back Cougar Lintel",
+            "Made To Order : N",
+            "Manufacturer Model No : CG70/1001200",
+            "Country Origin : UK",
+            "Brand Name : Catnic"
          ],
          "tags":[
             "Lintels",
@@ -436,7 +487,7 @@
       "type":"add",
       "id":47,
       "fields":{
-         "name":"Prestressed Textured Concrete Lintel 100x140x1200",
+         "name":"Prestressed Textured Concrete Lintel",
          "points":[
             "Masonry loads",
             "Uniformly distributed timber floor loads",
@@ -457,13 +508,20 @@
          "rating":4.2,
          "offer":0.3,
          "details":[
-
+            "Depth : 65 mm",
+            "Height : 100 mm",
+            "Material : Concrete",
+            "Colour : Grey",
+            "Type : Concrete Lintel",
+            "Manufacturer Model No : P100075",
+            "Brand Name : Supreme Concrete"
          ],
          "tags":[
             "Lintels",
             "Build materials",
             "Construction",
-            "Prestressed"
+            "Prestressed",
+            "Textured Concrete"
          ],
          "category":"Build Materials",
          "subcategory":"Lintels"
