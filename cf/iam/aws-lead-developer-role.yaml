@@ -5,7 +5,7 @@ Resources:
     Type: "AWS::IAM::Role"
     DeletionPolicy: "Delete"
     Properties:
-      RoleName: "VirtueLabs_Lead_Developer"
+      RoleName: "virtuelabs_lead_developer"
       Path: "/"
       AssumeRolePolicyDocument:
         Version: '2012-10-17'
@@ -27,6 +27,7 @@ Resources:
         - "arn:aws:iam::aws:policy/AmazonCognitoPowerUser"
         - "arn:aws:iam::aws:policy/AmazonESCognitoAccess"
         - "arn:aws:iam::aws:policy/AWSSupportAccess"
+      MaxSessionDuration: 7200
       Policies:
         - PolicyName: "rapido-build-star-access"
           PolicyDocument:

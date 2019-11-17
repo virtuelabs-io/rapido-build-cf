@@ -5,7 +5,7 @@ Resources:
     Type: "AWS::IAM::Role"
     DeletionPolicy: "Delete"
     Properties:
-      RoleName: "virtuelabs_admin"
+      RoleName: "virtuelabs_read_only"
       Path: "/"
       AssumeRolePolicyDocument:
         Version: '2012-10-17'
@@ -20,7 +20,5 @@ Resources:
               StringEquals:
                 SAML:aud: "https://signin.aws.amazon.com/saml"
       ManagedPolicyArns:
-        - "arn:aws:iam::aws:policy/AdministratorAccess"
-        - "arn:aws:iam::aws:policy/job-function/Billing"
-        - "arn:aws:iam::aws:policy/job-function/SupportUser"
+        - "arn:aws:iam::aws:policy/ReadOnlyAccess"
       MaxSessionDuration: 7200
