@@ -1,11 +1,11 @@
 aws cloudformation create-stack \
-    --stack-name rapido-dev-vpc \
+    --stack-name rapido-stage-network \
     --template-body file://${PWD}/cf/network/vpc.yaml \
-    --parameters ParameterKey=EnvironmentName,ParameterValue=rapido-dev-vpc \
-    --profile rapido-devops
+    --parameters ParameterKey=EnvironmentName,ParameterValue=stage \
+    --profile DevECommerce
 
 aws cloudformation create-stack \
-    --stack-name rapido-prod-vpc \
+    --stack-name rapido-prod-network \
     --template-body file://${PWD}/cf/network/vpc.yaml \
-    --parameters ParameterKey=EnvironmentName,ParameterValue=rapido-prod-vpc \
-    --profile rapido-devops
+    --parameters ParameterKey=EnvironmentName,ParameterValue=prod \
+    --profile DevECommerce

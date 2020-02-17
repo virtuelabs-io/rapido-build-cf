@@ -22,9 +22,9 @@ Resources:
           - SubscriptionType: EMAIL
             Address: reddy.horcrux@gmail.com
           - SubscriptionType: EMAIL
-            Address: sharan.sp.sp@gmail.com
+            Address: anirup@virtuelabs.io
           - SubscriptionType: EMAIL
-            Address: anirup049@gmail.com
+            Address: sangram@virtuelabs.io
         - Notification:
             NotificationType: ACTUAL
             ComparisonOperator: GREATER_THAN
@@ -33,9 +33,9 @@ Resources:
           - SubscriptionType: EMAIL
             Address: reddy.horcrux@gmail.com
           - SubscriptionType: EMAIL
-            Address: sharan.sp.sp@gmail.com
+            Address: anirup@virtuelabs.io
           - SubscriptionType: EMAIL
-            Address: anirup049@gmail.com
+            Address: sangram@virtuelabs.io
         - Notification:
             NotificationType: ACTUAL
             ComparisonOperator: GREATER_THAN
@@ -44,9 +44,9 @@ Resources:
           - SubscriptionType: EMAIL
             Address: reddy.horcrux@gmail.com
           - SubscriptionType: EMAIL
-            Address: sharan.sp.sp@gmail.com
+            Address: anirup@virtuelabs.io
           - SubscriptionType: EMAIL
-            Address: anirup049@gmail.com
+            Address: sangram@virtuelabs.io
         - Notification:
             NotificationType: FORECASTED
             ComparisonOperator: GREATER_THAN
@@ -55,9 +55,9 @@ Resources:
           - SubscriptionType: EMAIL
             Address: reddy.horcrux@gmail.com
           - SubscriptionType: EMAIL
-            Address: sharan.sp.sp@gmail.com
+            Address: anirup@virtuelabs.io
           - SubscriptionType: EMAIL
-            Address: anirup049@gmail.com
+            Address: sangram@virtuelabs.io
         - Notification:
             NotificationType: FORECASTED
             ComparisonOperator: GREATER_THAN
@@ -66,9 +66,9 @@ Resources:
           - SubscriptionType: EMAIL
             Address: reddy.horcrux@gmail.com
           - SubscriptionType: EMAIL
-            Address: sharan.sp.sp@gmail.com
+            Address: anirup@virtuelabs.io
           - SubscriptionType: EMAIL
-            Address: anirup049@gmail.com
+            Address: sangram@virtuelabs.io
 Outputs:
   BudgetId:
     Value: !Ref BudgetLimitResource
