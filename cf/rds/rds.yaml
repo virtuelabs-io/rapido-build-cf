@@ -15,11 +15,49 @@ Parameters:
     Type: String
   Password:
     Type: String
-  VpcId:
+  Port:
     Type: String
+    Default: 3306
+  VpcId:
+    Type: 'AWS::EC2::VPC::Id'
+    Description: VPC IDs
+  PrivateSubnets:
+    Type: CommaDelimitedList
+    Description: Subnet IDs
   EngineVersion:
     Type: String
+  EnvironmentName:
+    Description: An environment name that will be prefixed to resource names
+    Type: String
+    Default: dev
+    AllowedValues: [prod, dev, stage]
+    ConstraintDescription: Must specify prod, dev, or stage.
 Resources:
+  DBSubnetGroup:
+    Type: AWS::RDS::DBSubnetGroup
+    Properties:
+      DBSubnetGroupDescription: DBSubnetGroup
+      DBSubnetGroupName: !Join
+        - '-'
+        - - !Ref DBName
+          - !Ref EnvironmentName
+          - "subnet-group"
+      SubnetIds: !Ref PrivateSubnets
+      Tags:
+      - Key: CostCenter
+        Value: Rapidobuild
+      - Key: Environment
+        Value: !Ref EnvironmentName
+  LocalAccessSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      VpcId: !Ref VpcId
+      GroupDescription: Enable tcp access from OnPremise network
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: !Ref Port
+          ToPort: !Ref Port
+          CidrIp: 10.0.0.0/8
   DatabaseSecurityGroup:
     Type: AWS::EC2::SecurityGroup
     Properties:
@@ -33,8 +71,8 @@ Resources:
       Tags:
       - Key: CostCenter
         Value: Rapidobuild
-      - Key: Purpose
-        Value: Test environment
+      - Key: Environment
+        Value: !Ref EnvironmentName
   Database:
     Type: AWS::RDS::DBInstance
     Properties:
@@ -43,7 +81,10 @@ Resources:
       DBInstanceClass: !Ref DBInstanceClass
       MasterUsername: !Ref Username
       MasterUserPassword: !Ref Password
+      DBSubnetGroupName: !Ref DBSubnetGroup
+      StorageEncrypted: true
       Engine: !Ref Engine
+      Port: !Ref Port
       DeletionProtection: false
       PubliclyAccessible: false
       BackupRetentionPeriod: 1
@@ -52,17 +93,16 @@ Resources:
       EngineVersion: !Ref EngineVersion
       VPCSecurityGroups:
         - !Ref DatabaseSecurityGroup
+        - !Ref LocalAccessSecurityGroup
       Tags:
       - Key: CostCenter
         Value: Rapidobuild
-      - Key: Purpose
-        Value: Test environment
+      - Key: Environment
+        Value: !Ref EnvironmentName
     DeletionPolicy: Delete
 Outputs:
   DatabaseSecurityGroupId:
     Value: !Ref DatabaseSecurityGroup
-    Export:
-      Name: "DatabaseSecurityGroup::Id"
   JDBCConnectionString:
     Description: JDBC connection string for the database
     Value: !Join ['', ['jdbc:', !Ref Engine, '://', !GetAtt [Database, Endpoint.Address], ':', !GetAtt [

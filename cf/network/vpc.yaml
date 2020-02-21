@@ -9,7 +9,7 @@ Parameters:
     Type: String
     Default: dev
     AllowedValues: [prod, dev, stage]
-    ConstraintDescription: Must specify prod, dev, or test.
+    ConstraintDescription: Must specify prod, dev, or stage.
 
   VpcCIDR:
     Description: Please enter the IP range (CIDR notation) for this VPC
@@ -35,9 +35,6 @@ Parameters:
     Description: Please enter the IP range (CIDR notation) for the private subnet in the second Availability Zone
     Type: String
     Default: 10.0.16.0/20
-
-Conditions:
-  isProd: !Equals [!Ref EnvironmentName, prod]
 
 Resources:
   VPC:
@@ -88,7 +85,6 @@ Resources:
 
   PublicSubnet2:
     Type: AWS::EC2::Subnet
-    Condition: isProd
     Properties:
       VpcId: !Ref VPC
       AvailabilityZone: !Select [ 1, !GetAZs  '' ]
@@ -119,7 +115,6 @@ Resources:
 
   PrivateSubnet2:
     Type: AWS::EC2::Subnet
-    Condition: isProd
     Properties:
       VpcId: !Ref VPC
       AvailabilityZone: !Select [ 1, !GetAZs  '' ]
@@ -148,7 +143,6 @@ Resources:
 
   NatGateway2EIP:
     Type: AWS::EC2::EIP
-    Condition: isProd
     DependsOn: InternetGatewayAttachment
     Properties:
       Domain: vpc
@@ -176,7 +170,6 @@ Resources:
 
   NatGateway2:
     Type: AWS::EC2::NatGateway
-    Condition: isProd
     Properties:
       AllocationId: !GetAtt NatGateway2EIP.AllocationId
       SubnetId: !Ref PublicSubnet2
@@ -216,7 +209,6 @@ Resources:
 
   PublicSubnet2RouteTableAssociation:
     Type: AWS::EC2::SubnetRouteTableAssociation
-    Condition: isProd
     Properties:
       RouteTableId: !Ref PublicRouteTable
       SubnetId: !Ref PublicSubnet2
@@ -248,7 +240,6 @@ Resources:
 
   PrivateRouteTable2:
     Type: AWS::EC2::RouteTable
-    Condition: isProd
     Properties:
       VpcId: !Ref VPC
       Tags:
@@ -261,7 +252,6 @@ Resources:
 
   DefaultPrivateRoute2:
     Type: AWS::EC2::Route
-    Condition: isProd
     Properties:
       RouteTableId: !Ref PrivateRouteTable2
       DestinationCidrBlock: 0.0.0.0/0
@@ -269,7 +259,6 @@ Resources:
 
   PrivateSubnet2RouteTableAssociation:
     Type: AWS::EC2::SubnetRouteTableAssociation
-    Condition: isProd
     Properties:
       RouteTableId: !Ref PrivateRouteTable2
       SubnetId: !Ref PrivateSubnet2
@@ -290,7 +279,6 @@ Resources:
 
   S3Endpoint:
     Type: AWS::EC2::VPCEndpoint
-    Condition: isProd
     Properties:
       RouteTableIds:
         - !Ref PrivateRouteTable1
